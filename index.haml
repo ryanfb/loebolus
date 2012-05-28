@@ -33,6 +33,9 @@
       %a{:href => 'http://s3.amazonaws.com/loebolus/loebolus.zip'}
         a .zip containing all #{associations.keys.length} PDF's
       (3.2GB).
+      Or
+      %a{:href => 'https://github.com/ryanfb/loebolus'}
+        view the code used for generating this site on GitHub.
     %ul
       - associations.sort.map do |key,value|
         %li

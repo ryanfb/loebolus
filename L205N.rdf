@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:ns0="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L205N.rdf">
+    <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
+    <ns0:relation rdf:resource="http://openlibrary.org/books/OL13443897M/The_letters_to_his_friends"/>
+    <ns0:relation rdf:resource="http://www.archive.org/details/letterstohisfrie01ciceuoft"/>
+    <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L205N.pdf"/>
+    <ns0:title>Cicero -- Volume XXV: Letters to Friends 1-113</ns0:title>
+  </rdf:Description>
+</rdf:RDF>

@@ -7,11 +7,23 @@ require 'rdf/rdfxml'
 
 associations = YAML::load STDIN
 
-RDF::Writer.open("example.rdf") do |writer|
+root_url = "http://ryanfb.github.com/loebolus/"
+root_resource = RDF::Resource.new(root_url)
+
+RDF::Writer.open('index.rdf') do |writer|
   writer << RDF::Graph.new do |graph|
-    associations.each_pair do |key,value|
-      resource = RDF::Resource.new("http://s3.amazonaws.com/loebolus/#{key}.rdf")
-      graph << [resource, RDF::DC.isPartOf, RDF::Resource.new("http://ryanfb.github.com/loebolus/")]
+    associations.sort.map do |key,value|
+      graph << [root_resource, RDF::DC.hasPart, RDF::Resource.new("#{root_url}#{key}.rdf")]
+    end
+  end
+end
+
+associations.sort.map do |key,value|
+  RDF::Writer.open("#{key}.rdf") do |writer|
+    writer << RDF::Graph.new do |graph|
+      resource = RDF::Resource.new("#{root_url}#{key}.rdf")
+      graph << [resource, RDF::DC.isPartOf, root_resource]
+      graph << [resource, RDF::DC.source, RDF::Resource.new("http://s3.amazonaws.com/loebolus/#{key}.pdf")]
       if associations[key].include?('title')
         graph << [resource, RDF::DC.title, associations[key]['title']]
       end

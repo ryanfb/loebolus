@@ -1,9 +1,37 @@
 !!! 5
-%html
+%html{:lang => 'en'}
   %head
+    %meta{:charset => 'utf-8'}
+    %title Loebolus
+    %link{:rel => 'stylesheet', :type => 'text/css', :href => 'http://fonts.googleapis.com/css?family=EB+Garamond'}
+    :css
+      body {
+        font-family:'EB Garamond', serif;
+        margin: 80px auto;
+        width: 720px;
+        line-height: 24px;
+      }
+      a {
+        color: black;
+        text-decoration: none;
+        border-bottom: 1px solid #ddd;
+      }
+      a:hover {
+        border-bottom: 1px solid black;
+      }
   %body
-    %h1
-      Loebolus
+    %h1 Loebolus
+    %p
+      Loebolus is based on
+      %a{:href => 'http://www.edonnelly.com/loebs.html'}
+        Edwin Donnelly's “Downloebables”
+      , aiming to make all the public domain Loebs more easily downloadable
+      by re-hosting the PDF's directly, without the need to enter CAPTCHA's.
+    %p
+      You can also download
+      %a{:href => 'http://s3.amazonaws.com/loebolus/loebolus.zip'}
+        a .zip containing all #{associations.keys.length} PDF's
+      (3.2GB).
     %ul
       - associations.sort.map do |key,value|
         %li

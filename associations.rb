@@ -15,6 +15,14 @@ def get_redirect(uri)
   res['location']
 end
 
+def is_403?(uri)
+  url = URI.parse(uri)
+  res = Net::HTTP.start(url.host, url.port) {|http|
+    http.head(url.path)
+  }
+  res.code == '403'
+end
+
 doc = Nokogiri::HTML(open('http://www.edonnelly.com/loebs.html'))
 
 associations = {}
@@ -24,18 +32,20 @@ doc.xpath('//a[contains(@href,"books.google.com") or contains(@href,"www.archive
   title = loeb.xpath('following::td[1]').first.content
   loeb = loeb.content
 
-  unless associations.has_key? loeb
-    associations[loeb] = {}
-    associations[loeb]['title'] = title
-  end
+  unless is_403?("http://s3.amazonaws.com/loebolus/#{loeb}.pdf")
+    unless associations.has_key? loeb
+      associations[loeb] = {}
+      associations[loeb]['title'] = title
+    end
 
-  if link['href'] =~ /www.archive.org/
-    associations[loeb]['archive'] = link['href']
+    if link['href'] =~ /www.archive.org/
+      associations[loeb]['archive'] = link['href']
 
-    id = link['href'].split('/').last
-    associations[loeb]['openlibrary'] = get_redirect("http://openlibrary.org/ia/#{id}")
-  else
-    associations[loeb]['google'] = link['href']
+      id = link['href'].split('/').last
+      associations[loeb]['openlibrary'] = get_redirect("http://openlibrary.org/ia/#{id}")
+    else
+      associations[loeb]['google'] = link['href']
+    end
   end
 end
 

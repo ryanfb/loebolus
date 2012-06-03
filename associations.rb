@@ -30,6 +30,15 @@ associations = {}
 doc.xpath('//a[contains(@href,"books.google.com") or contains(@href,"www.archive.org")]').each do |link|
   loeb = link.xpath('preceding::a[contains(@href,"hup.harvard.edu")][2]').first
   title = loeb.xpath('following::td[1]').first.content
+  original_title = loeb.xpath('following::td[1]/following::i[1]').first.content
+
+  author = title.split(' -- ').first
+  if author =~ /,/
+    title = original_title
+  else
+    title = author + ' -- ' + original_title
+  end
+
   loeb = loeb.content
 
   unless is_403?("http://s3.amazonaws.com/loebolus/#{loeb}.pdf")

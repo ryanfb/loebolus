@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7110338M/Letters."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/letterswithengli02plinuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L059.pdf"/>
-    <ns0:title>Pliny the Younger -- Letters II: Books 8-10. Panegyricus</ns0:title>
+    <ns0:title>Pliny the Younger -- Letters II: Books 7-10</ns0:title>
   </rdf:Description>
 </rdf:RDF>

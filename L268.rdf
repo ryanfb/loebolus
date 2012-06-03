@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL17965347M/De_natura_deorum"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/denaturadeorumac00ciceuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L268.pdf"/>
-    <ns0:title>Cicero -- Volume XIX: On the Nature of the Gods. Academics</ns0:title>
+    <ns0:title>Cicero -- De Natura Deorum. Academica</ns0:title>
   </rdf:Description>
 </rdf:RDF>

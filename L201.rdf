@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23285861M/Charmides_Alcibiades_1_and_2_Hipparchus_The_lovers_Theages_Minos_Epinomis."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/charmidesalcibia00platuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L201.pdf"/>
-    <ns0:title>Plato -- Volume XII: Charmides. Alcibiades 1 &amp; 2. Hipparchus. The Lovers. Theages. Minos. Epinomis</ns0:title>
+    <ns0:title>Plato -- Charmides. Alcibiades 1 &amp; 2. Hipparchus. The Lovers. Theages. Minos. Epinomis</ns0:title>
   </rdf:Description>
 </rdf:RDF>

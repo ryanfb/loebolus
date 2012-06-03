@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7078087M/Letters_to_Atticus_with_an_English_translation_by_E.O._Winstedt."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/letterstoatticus02ciceuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L008N.pdf"/>
-    <ns0:title>Cicero -- Volume XXIII: Letters to Atticus 90-165A</ns0:title>
+    <ns0:title>Cicero -- Letters to Atticus II</ns0:title>
   </rdf:Description>
 </rdf:RDF>

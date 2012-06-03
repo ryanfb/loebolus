@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23307053M/Isocrates_with_an_English_translation_by_George_Norlin_..._in_three_volumes."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/isocrateswitheng03isocuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L373.pdf"/>
-    <ns0:title>Isocrates -- Volume III: Evagoras. Helen. Busiris. Plataicus. Concerning the Team of Horses. Trapeziticus. Against Callimachus. Aegineticus. Against Lochites. Against Euthynus. Letters</ns0:title>
+    <ns0:title>Isocrates -- Isocrates III: Evagoras. Helen. Busiris. Plataicus. Concerning the Team of Horses. Trapeziticus. Against Callimachus. Aegineticus. Against Lochites. Against Euthynus. Letters</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL13578219M/Arrian"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/arrianar01arriuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L236.pdf"/>
-    <ns0:title>Arrian -- Anabasis of Alexander, Books 1-4</ns0:title>
+    <ns0:title>Arrian -- Anabasis Alexandri, Books 1-4</ns0:title>
   </rdf:Description>
 </rdf:RDF>

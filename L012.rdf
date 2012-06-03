@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23298544M/Euripides"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/euripidesway04euriuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L012.pdf"/>
-    <ns0:title>Euripides -- Volume I: Cyclops. Alcestis. Medea</ns0:title>
+    <ns0:title>Euripides -- Euripides IV: Ion. Hippolytus. Medea. Alcestis</ns0:title>
   </rdf:Description>
 </rdf:RDF>

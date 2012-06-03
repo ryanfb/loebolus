@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL13573609M/Hippocrates"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/hippocrates01hippuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L147.pdf"/>
-    <ns0:title>Hippocrates -- Volume I: Ancient Medicine. Airs, Waters, Places. Epidemics 1 &amp; 3. The Oath. Precepts. Nutriment</ns0:title>
+    <ns0:title>Hippocrates -- Hippocrates I: Ancient Medicine. Airs, Waters, Places. Epidemics 1 &amp; 3. The Oath. Precepts. Nutriment</ns0:title>
   </rdf:Description>
 </rdf:RDF>

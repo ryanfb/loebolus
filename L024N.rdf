@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7152411M/The_Apostolic_fathers"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/theapostolicfath00unknuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L024N.pdf"/>
-    <ns0:title>Ehrman, Bart D -- Apostolic Fathers I: I Clement. II Clement. Ignatius. Polycarp. Didache</ns0:title>
+    <ns0:title>Apostolic Fathers I: I Clement. II Clement. Ignatiius. Polycarp. Didache. Barnaba</ns0:title>
   </rdf:Description>
 </rdf:RDF>

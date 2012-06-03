@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL24360031M/Claudian"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/claudian02clau"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L136.pdf"/>
-    <ns0:title>Claudian -- Volume II: On Stilicho's Consulship 2-3. Panegyric on the Sixth Consulship of Honorius. The Gothic War. Shorter Poems. Rape of Proserpina</ns0:title>
+    <ns0:title>Claudian -- On Stilicho's Consulship 2-3. Panegyric on the Sixth Consulship of Honorius. The Gothic War. Shorter Poems. Rape of Proserpina</ns0:title>
   </rdf:Description>
 </rdf:RDF>

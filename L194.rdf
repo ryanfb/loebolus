@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL6697866M/Satires_Epistles_and_Ars_poetica"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/satiresepistlesa00horauoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L194.pdf"/>
-    <ns0:title>Horace -- Volume II: Satires. Epistles. The Art of Poetry</ns0:title>
+    <ns0:title>Horace -- Satires. Epistles. Ars Poetica</ns0:title>
   </rdf:Description>
 </rdf:RDF>

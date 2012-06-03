@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23320585M/Moral_essays."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/moralessayswithe01seneuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L214.pdf"/>
-    <ns0:title>Seneca -- Volume I: Moral Essays: De Providentia. De Constantia. De Ira. De Clementia</ns0:title>
+    <ns0:title>Seneca -- Moral Essays I: De Providentia. De Constantia. De Ira. De Clementia</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23315794M/Livy"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/livywithenglisht13livyuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L396.pdf"/>
-    <ns0:title>Livy -- History of Rome XIII: Books 43-45</ns0:title>
+    <ns0:title>Livy -- Livy XIII: Books 43-45</ns0:title>
   </rdf:Description>
 </rdf:RDF>

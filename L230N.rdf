@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL13443897M/The_letters_to_his_friends"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/letterstohisfrie03ciceuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L230N.pdf"/>
-    <ns0:title>Cicero -- Volume XXVII: Letters to Friends 281-435</ns0:title>
+    <ns0:title>Cicero -- Letters to His Friends III: Books 13-16. To His Brother Quintus. To Brutus</ns0:title>
   </rdf:Description>
 </rdf:RDF>

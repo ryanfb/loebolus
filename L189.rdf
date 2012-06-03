@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL6698082M/Philippics"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/philippics00ciceuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L189.pdf"/>
-    <ns0:title>Cicero -- Volume XV: Philippics</ns0:title>
+    <ns0:title>Cicero -- Philippics</ns0:title>
   </rdf:Description>
 </rdf:RDF>

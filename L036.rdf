@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7209190M/Plato"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/plato01plat"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L036.pdf"/>
-    <ns0:title>Plato -- Volume I: Euthyphro. Apology. Crito. Phaedo. Phaedrus</ns0:title>
+    <ns0:title>Plato -- Euthyphro. Apology. Crito. Phaedo. Phaedrus</ns0:title>
   </rdf:Description>
 </rdf:RDF>

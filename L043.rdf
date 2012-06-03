@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=gWhfAAAAMAAJ"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L043.pdf"/>
-    <ns0:title>Ovid -- Volume IV: Metamorphoses, Books 9-15</ns0:title>
+    <ns0:title>Ovid -- Metamorphoses II: Books 9-15</ns0:title>
   </rdf:Description>
 </rdf:RDF>

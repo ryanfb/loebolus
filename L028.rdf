@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=IMrCpKxmgCUC"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L028.pdf"/>
-    <ns0:title>Edmonds, J. M. -- Greek Bucolic Poets: Theocritus. Bion. Moschus</ns0:title>
+    <ns0:title>Greek Bucolic Poets</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL19367126M/Josephus"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/josephuswithengl06joseuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L326.pdf"/>
-    <ns0:title>Josephus -- Volume VIII: Jewish Antiquities Books 9-11</ns0:title>
+    <ns0:title>Josephus -- Josephus VI: Jewish Antiquities Books 9-11</ns0:title>
   </rdf:Description>
 </rdf:RDF>

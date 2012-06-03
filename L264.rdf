@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL20423944M/Politics"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/politicsrackh00arisuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L264.pdf"/>
-    <ns0:title>Aristotle -- Volume XXI: Politics</ns0:title>
+    <ns0:title>Aristotle -- Politics</ns0:title>
   </rdf:Description>
 </rdf:RDF>

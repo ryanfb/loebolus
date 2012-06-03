@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23312220M/Letters_to_Atticus"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/letterstoatticuswins03ciceuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L097N.pdf"/>
-    <ns0:title>Cicero -- Volume XXIV: Letters to Atticus 166-281</ns0:title>
+    <ns0:title>Cicero -- Letters to Atticus III</ns0:title>
   </rdf:Description>
 </rdf:RDF>

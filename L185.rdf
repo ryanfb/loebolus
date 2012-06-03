@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL18074380M/Lives_of_eminent_philosophers"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/livesofeminentph02dioguoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L185.pdf"/>
-    <ns0:title>Diogenes Laertius -- Volume II: Books 6-10</ns0:title>
+    <ns0:title>Diogenes Laertius -- Lives of Eminent Philosophers II: Books 6-10</ns0:title>
   </rdf:Description>
 </rdf:RDF>

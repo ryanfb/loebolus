@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL14104464M/De_medicina"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/demedicina03celsuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L336.pdf"/>
-    <ns0:title>Celsus -- On Medicine III: Books 7-8</ns0:title>
+    <ns0:title>Celsus -- De Medicina III: Books 7-8</ns0:title>
   </rdf:Description>
 </rdf:RDF>

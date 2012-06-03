@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL20424625M/Euripides"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/euripideswitheng02euri"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L010N.pdf"/>
-    <ns0:title>Euripides -- Volume IV: Trojan Women. Iphigenia among the Taurians. Ion</ns0:title>
+    <ns0:title>Euripides -- Euripides II: Electra. Orestes. Iphigeneia in Taurica. Andromache. Cyclops</ns0:title>
   </rdf:Description>
 </rdf:RDF>

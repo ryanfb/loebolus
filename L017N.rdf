@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=sVu2B54Pq4EC"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L017N.pdf"/>
-    <ns0:title>Philostratus -- Apollonius of Tyana II: Life of Apollonius of Tyana, Books 5-8</ns0:title>
+    <ns0:title>Philostratus -- Life of Apollonius of Tyana II</ns0:title>
   </rdf:Description>
 </rdf:RDF>

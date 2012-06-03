@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL19367126M/Josephus"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/josephuswithengl05joseuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L281.pdf"/>
-    <ns0:title>Josephus -- Volume VII: Jewish Antiquities Books 7-8</ns0:title>
+    <ns0:title>Josephus -- Josephus V: Jewish Antiquities Books 5-8</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23315794M/Livy"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/livywithenglisht06livyuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L355.pdf"/>
-    <ns0:title>Livy -- History of Rome VI: Books 23-25</ns0:title>
+    <ns0:title>Livy -- Livy VI: Books 23-25</ns0:title>
   </rdf:Description>
 </rdf:RDF>

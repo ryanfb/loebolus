@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=F41fAAAAMAAJ"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L085.pdf"/>
-    <ns0:title>Paton, W -- Greek Anthology IV: Book 10: The Hortatory and Admonitory Epigrams. Book 11: The Convivial and Satirical Epigrams. Book 12: Strato's Musa Puerilis</ns0:title>
+    <ns0:title>Greek Anthology IV: Book 10: The Hortatory and Admonitory Epigrams. Book 11: The Convivial and Satirical Epigrams. Book 12: Strato's Musa Puerilis</ns0:title>
   </rdf:Description>
 </rdf:RDF>

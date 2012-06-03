@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL6568594M/De_finibus_bonorum_et_malorum"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/definibusbonoru02cicegoog"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L040.pdf"/>
-    <ns0:title>Cicero -- Volume XVII: On Ends</ns0:title>
+    <ns0:title>Cicero -- De Finibus Bonorum et Malorum</ns0:title>
   </rdf:Description>
 </rdf:RDF>

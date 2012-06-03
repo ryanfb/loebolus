@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL6341513M/Minor_works_..."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/minorworks00arisuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L307.pdf"/>
-    <ns0:title>Aristotle -- Volume XIV: Minor Works</ns0:title>
+    <ns0:title>Aristotle -- Minor Works</ns0:title>
   </rdf:Description>
 </rdf:RDF>

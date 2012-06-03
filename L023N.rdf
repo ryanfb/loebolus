@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL14044827M/Terence"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/terence00tereuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L023N.pdf"/>
-    <ns0:title>Terence -- Volume II: Phormio. The Mother-in-Law. The Brothers</ns0:title>
+    <ns0:title>Terence -- Terence II: Phormio. The Mother-in-Law. The Brothers</ns0:title>
   </rdf:Description>
 </rdf:RDF>

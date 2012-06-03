@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL6568595M/Cyropaedia"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/cyropaedia03xenogoog"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L052.pdf"/>
-    <ns0:title>Xenophon -- Volume VI: Cyropaedia, Books 5-8</ns0:title>
+    <ns0:title>Xenophon -- Cyropaedia II: Books 5-8</ns0:title>
   </rdf:Description>
 </rdf:RDF>

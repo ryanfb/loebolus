@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7127413M/Procopius_with_an_English_translation_by_H.B._Dewing"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/procopiuswitheng01procuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L048.pdf"/>
-    <ns0:title>Procopius -- Volume I: History of the Wars, Books 1-2. (Persian War)</ns0:title>
+    <ns0:title>Procopius -- Procopius I: History of the Wars, Books 1-2. (Persian War)</ns0:title>
   </rdf:Description>
 </rdf:RDF>

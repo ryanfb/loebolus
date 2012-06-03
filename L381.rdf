@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23315794M/Livy"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/livywithenglisht08livyuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L381.pdf"/>
-    <ns0:title>Livy -- History of Rome VIII: Books 28-30</ns0:title>
+    <ns0:title>Livy -- Livy VIII: Books 28-30</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7240063M/The_correspondence_of_Marcus_Cornelius_Fronto_with_Marcus_Aurelius_Antoninus_Lucius_Verus_Antoninus_"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/correspondenceof00fron"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L113.pdf"/>
-    <ns0:title>Marcus Cornelius Fronto -- Correspondence II</ns0:title>
+    <ns0:title>Marcus Cornelius Fronto -- Correspondence of Marcus Cornelius Fronto with Marcus Aurelius Antoninus II</ns0:title>
   </rdf:Description>
 </rdf:RDF>

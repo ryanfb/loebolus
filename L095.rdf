@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7097061M/Martial_epigrams"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/martialepigrams02martiala"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L095.pdf"/>
-    <ns0:title>Martial -- Epigrams II: Books 6-10</ns0:title>
+    <ns0:title>Martial -- Epigrams II: Books 8-14</ns0:title>
   </rdf:Description>
 </rdf:RDF>

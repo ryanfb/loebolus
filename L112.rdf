@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=BsYXAAAAMAAJ"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L112.pdf"/>
-    <ns0:title>Marcus Cornelius Fronto -- Correspondence I</ns0:title>
+    <ns0:title>Marcus Cornelius Fronto -- Correspondence of Marcus Cornelius Fronto with Marcus Aurelius Antoninus I</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL6698080M/The_ecclesiastical_history"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/ecclesiasticalhi01euseuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L153.pdf"/>
-    <ns0:title>Eusebius -- Volume I: Books 1-5</ns0:title>
+    <ns0:title>Eusebius -- Ecclesiastical History I: Books 1-5</ns0:title>
   </rdf:Description>
 </rdf:RDF>

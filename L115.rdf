@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7089699M/Ausonius"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/ausonius02auso"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L115.pdf"/>
-    <ns0:title>Ausonius -- Volume II: Poems 18-20. Paulinus Pellaeus: Eucharisticus</ns0:title>
+    <ns0:title>Ausonius -- Ausonius II: Poems 18-20. Paulinus Pellaeus: Eucharisticus</ns0:title>
   </rdf:Description>
 </rdf:RDF>

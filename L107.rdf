@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=ddZfAAAAMAAJ"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L107.pdf"/>
-    <ns0:title>Procopius -- Volume III: History of the Wars, Books 5-6.15. (Gothic War)</ns0:title>
+    <ns0:title>Procopius -- Procopius III: History of the Wars, Books 5-6.15</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7156662M/Ausonius_with_an_English_translation"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/deciausonius01ausouoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L096.pdf"/>
-    <ns0:title>Ausonius -- Volume I: Poems 1-17</ns0:title>
+    <ns0:title>Ausonius -- Ausonius I: Books 1-17</ns0:title>
   </rdf:Description>
 </rdf:RDF>

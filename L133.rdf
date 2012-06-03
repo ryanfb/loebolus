@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL2142031M/Livy_in_fourteen_volumes"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/livy02livy"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L133.pdf"/>
-    <ns0:title>Livy -- History of Rome II: Books 3-4</ns0:title>
+    <ns0:title>Livy -- Livy II: Books 3-4</ns0:title>
   </rdf:Description>
 </rdf:RDF>

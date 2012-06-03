@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23306032M/Imagines"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/imagines00philuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L256.pdf"/>
-    <ns0:title>Philostratus the Elder -- Philostratus the Elder, Imagines. Philostratus the Younger, Imagines. Callistratus, Descriptions</ns0:title>
+    <ns0:title>Philostratus the Elder -- Imagines. Callistatus: Descriptions</ns0:title>
   </rdf:Description>
 </rdf:RDF>

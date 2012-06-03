@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=bR0MAAAAIAAJ"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L118.pdf"/>
-    <ns0:title>Herodotus -- Persian Wars II: Books 3-4</ns0:title>
+    <ns0:title>Herodotus -- Herodotus II: Books 3-4</ns0:title>
   </rdf:Description>
 </rdf:RDF>

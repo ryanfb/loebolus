@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7041781M/The_fall_of_Troy"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/falloftroy00quin"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L019.pdf"/>
-    <ns0:title>Quintus Smyrnaeus -- The Fall of Troy</ns0:title>
+    <ns0:title>Quintus Smyrnaeus -- Fall of Troy</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=RIxfAAAAMAAJ"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L086.pdf"/>
-    <ns0:title>Paton, W -- Greek Anthology V: Book 13: Epigrams in Various Metres. Book 14: Arithmetical Problems, Riddles, Oracles. Book 15: Miscellanea. Book 16: Epigrams of the Planudean Anthology Not in the Palatine Manuscript</ns0:title>
+    <ns0:title>Greek Anthology V: Book 13: Epigrams in Various Metres. Book 14: Arithmetical Problems, Riddles, Oracles. Book 15: Miscellanea. Book 16: Epigrams of the Planudean Anthology Not in the Palatine Manuscript</ns0:title>
   </rdf:Description>
 </rdf:RDF>

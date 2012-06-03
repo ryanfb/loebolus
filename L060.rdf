@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=7qKEAAAAIAAJ"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L060.pdf"/>
-    <ns0:title>Plautus -- Volume I: Amphitryon. The Comedy of Asses. The Pot of Gold. The Two Bacchises. The Captives</ns0:title>
+    <ns0:title>Plautus -- Plautus I: Amphitryon. The Comedy of Asses. The Pot of Gold. The Two Bacchises. The Captives</ns0:title>
   </rdf:Description>
 </rdf:RDF>

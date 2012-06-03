@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL17966022M/On_sophistical_refutations_and_On_coming-to-be_and_passing_away_translated_by_E.S._Forster."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/onsophisticalref00arisuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L400.pdf"/>
-    <ns0:title>Aristotle -- Volume III: On Sophistical Refutations. On Coming-to-be and Passing Away. On the Cosmos</ns0:title>
+    <ns0:title>Aristotle -- On Sophistical Refutations. On Coming-to-be and Passing Away. On the Cosmos</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23362576M/Xenophon_with_an_English_translation_by_Carleton_L._Brownson."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/xenophonwithengl01xenouoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L088.pdf"/>
-    <ns0:title>Xenophon -- Volume I: Hellenica, Books 1-4</ns0:title>
+    <ns0:title>Xenophon -- Hellenica, Books 1-5</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23340702M/Statius"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/statiusstat01statuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L206N.pdf"/>
-    <ns0:title>Statius -- Volume I: Silvae</ns0:title>
+    <ns0:title>Statius -- Statius I: Silvae. Thebaid, Books 1-4</ns0:title>
   </rdf:Description>
 </rdf:RDF>

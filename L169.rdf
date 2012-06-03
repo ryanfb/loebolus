@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL22153397M/History_of_the_Peloponnesian_war"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/historyofpelopon04thucuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L169.pdf"/>
-    <ns0:title>Thucydides -- History of the Peleponnesian War IV: Books 7-8. General Index</ns0:title>
+    <ns0:title>Thucydides -- http://www.archive.org/details/historyofpelopon04thucuoft</ns0:title>
   </rdf:Description>
 </rdf:RDF>

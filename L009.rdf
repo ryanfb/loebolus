@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23298544M/Euripides"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/euripidesway01euriuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L009.pdf"/>
-    <ns0:title>Euripides -- Volume III: Suppliant Women. Electra. Heracles</ns0:title>
+    <ns0:title>Euripides -- Euripides I: Iphigenia at Aulis. Rhesus. Hecuba. The Daughters of Troy. Helen</ns0:title>
   </rdf:Description>
 </rdf:RDF>

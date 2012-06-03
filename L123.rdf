@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7129211M/Theaetetus_and_Sophist."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/theaetetusandsop00plat"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L123.pdf"/>
-    <ns0:title>Plato -- Volume VII: Theaetetus. Sophist</ns0:title>
+    <ns0:title>Plato -- Theaetetus. Sophist</ns0:title>
   </rdf:Description>
 </rdf:RDF>

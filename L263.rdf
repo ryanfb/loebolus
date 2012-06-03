@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7121060M/The_Scriptores_historiae_augustae_with_an_English_translation"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/scriptoreshistor03camb"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L263.pdf"/>
-    <ns0:title>Magie, D -- Historia Augusta III: The Two Valerians. The Two Gallieni. The Thirty Pretenders. The Deified Claudius. The Deified Aurelian. Tacitus. Probus. Firmus, Saturninus, Proculus and Bonosus. Carus, Carinus and Numerian</ns0:title>
+    <ns0:title>Scriptores Historiae Augustae III: The Two Valerians. The Two Gallieni. The Thirty Pretenders. The Deified Claudius. The Deified Aurelian. Tacitus. Probus. Firmus, Saturninus, Proculus and Bonosus. Carus, Carinus and Numerian</ns0:title>
   </rdf:Description>
 </rdf:RDF>

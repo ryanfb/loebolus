@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7044392M/Tragedies"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/tragedies00sene"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L078N.pdf"/>
-    <ns0:title>Seneca -- Volume IX: Tragedies II</ns0:title>
+    <ns0:title>Seneca -- Tragedies II: Agamemnon. Thyestes. Hercules Oetaeus. Phoenissae. Octavia</ns0:title>
   </rdf:Description>
 </rdf:RDF>

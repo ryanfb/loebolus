@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL6769845M/Ovid's_Fasti"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/ovidsfasti00oviduoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L253.pdf"/>
-    <ns0:title>Ovid -- Volume V: Fasti</ns0:title>
+    <ns0:title>Ovid -- Fasti</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL17965907M/Lyra_Graeca"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/lyragraecabeingr02edmouoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L143.pdf"/>
-    <ns0:title>Campbell, David A -- Greek Lyric II: Anacreon, Anacreontea, Choral Lyric from Olympus to Alcman</ns0:title>
+    <ns0:title>Lyra Graeca II: Stesichorus. Ibycus. Anacreon. Simonides</ns0:title>
   </rdf:Description>
 </rdf:RDF>

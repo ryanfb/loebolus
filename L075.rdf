@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7083511M/Ad_Lucilium_epistulae_morales"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/adluciliumepistu01sene"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L075.pdf"/>
-    <ns0:title>Seneca -- Volume IV: Epistles 1-65</ns0:title>
+    <ns0:title>Seneca -- Ad Lucilium Epistulae Morales I: Letters 1-65</ns0:title>
   </rdf:Description>
 </rdf:RDF>

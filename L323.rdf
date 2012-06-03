@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL20424698M/Parts_of_animals"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/partsofanimals00aris"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L323.pdf"/>
-    <ns0:title>Aristotle -- Volume XII: Parts of Animals. Movement of Animals. Progression of Animals</ns0:title>
+    <ns0:title>Aristotle -- Parts of Animals. Movement of Animals. Progression of Animals</ns0:title>
   </rdf:Description>
 </rdf:RDF>

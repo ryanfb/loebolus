@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7083511M/Ad_Lucilium_epistulae_morales"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/adluciliumepistu02sene"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L076.pdf"/>
-    <ns0:title>Seneca -- Volume V: Epistles 66-92</ns0:title>
+    <ns0:title>Seneca -- Ad Lucilium Epistulae Morales II: Letters 66-92</ns0:title>
   </rdf:Description>
 </rdf:RDF>

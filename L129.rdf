@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7174767M/Callimachus_and_Lycophron"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/callimachuslycop00calluoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L129.pdf"/>
-    <ns0:title>Callimachus -- Volume II: Hymns, Epigrams. Phaenomena. Alexandra</ns0:title>
+    <ns0:title>Callimachus -- Callimachus and Lycophron. Aratus</ns0:title>
   </rdf:Description>
 </rdf:RDF>

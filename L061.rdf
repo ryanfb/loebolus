@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=tIZfAAAAMAAJ"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L061.pdf"/>
-    <ns0:title>Plautus -- Volume II: Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses</ns0:title>
+    <ns0:title>Plautus -- Plautus II: Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses</ns0:title>
   </rdf:Description>
 </rdf:RDF>

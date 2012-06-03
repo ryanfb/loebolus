@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL19636519M/Plautus_with_an_English_translation_by_Paul_Nixon."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/plautuswithengli05plauuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L328.pdf"/>
-    <ns0:title>Plautus -- Volume V: Stichus. Trinummus (Three Bob Day). Truculentus. The Tale of a Travelling Bag. Fragments</ns0:title>
+    <ns0:title>Plautus -- Plautus V: Stichus. Trinummus (Three Bob Day). Truculentus. The Tale of a Travelling Bag. Fragments</ns0:title>
   </rdf:Description>
 </rdf:RDF>

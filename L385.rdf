@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL18074687M/Dio_Chrysostom_with_an_English_translation_by_J.W._Cohoon"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/diochrysostomwit05diocuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L385.pdf"/>
-    <ns0:title>Dio Chrysostom -- Volume V: Discourses 61-80. Fragments. Letters</ns0:title>
+    <ns0:title>Dio Chrysostom -- Dio Chrysostom V: Discourses 61-80. Fragments. Letters</ns0:title>
   </rdf:Description>
 </rdf:RDF>

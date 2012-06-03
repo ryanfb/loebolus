@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23325808M/Plato_with_an_English_translation."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/platowithenglish04platuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L165.pdf"/>
-    <ns0:title>Plato -- Volume II: Laches. Protagoras. Meno. Euthydemus</ns0:title>
+    <ns0:title>Plato -- Laches. Protagoras. Meno. Euthydemus</ns0:title>
   </rdf:Description>
 </rdf:RDF>

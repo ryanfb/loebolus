@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL14021111M/Lucian"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/lucianmac07luciuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L431.pdf"/>
-    <ns0:title>Lucian -- Volume VII: Dialogues of the Dead. Dialogues of the Sea-Gods. Dialogues of the Gods. Dialogues of the Courtesans</ns0:title>
+    <ns0:title>Lucian -- Lucian VII: Dialogues of the Dead. Dialogues of the Sea-Gods. Dialogues of the Gods. Dialogues of the Courtesans</ns0:title>
   </rdf:Description>
 </rdf:RDF>

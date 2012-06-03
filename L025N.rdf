@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=lqsNAAAAIAAJ"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L025N.pdf"/>
-    <ns0:title>Ehrman, Bart D -- Apostolic Fathers II: Epistle of Barnabas. Papias and Quadratus. Epistle to Diognetus. The Shepherd of Hermas</ns0:title>
+    <ns0:title>Apostolic Fathers II: Shepherd of Hermas. Martyrdom of Polycarp. Epistle to Diognetus.</ns0:title>
   </rdf:Description>
 </rdf:RDF>

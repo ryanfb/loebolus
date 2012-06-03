@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=vmZiAAAAMAAJ"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L013.pdf"/>
-    <ns0:title>Julian -- Volume I: Orations 1-5</ns0:title>
+    <ns0:title>Julian -- Julian I: Orations 1-5</ns0:title>
   </rdf:Description>
 </rdf:RDF>

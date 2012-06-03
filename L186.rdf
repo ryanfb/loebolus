@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL19367126M/Josephus"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/josephuswithengl01joseuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L186.pdf"/>
-    <ns0:title>Josephus -- Volume I: The Life. Against Apion</ns0:title>
+    <ns0:title>Josephus -- Josephus I: The Life. Against Apion</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23312244M/Letters."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/letterswithengli01basiuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L190.pdf"/>
-    <ns0:title>Basil -- Volume I: Letters 1-58</ns0:title>
+    <ns0:title>Basil -- Basil I: Letters 1-58</ns0:title>
   </rdf:Description>
 </rdf:RDF>

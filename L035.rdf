@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=zB0cAQAAIAAJ"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L035.pdf"/>
-    <ns0:title>Tacitus -- Volume I: Agricola. Germania. Dialogue on Oratory</ns0:title>
+    <ns0:title>Tacitus -- Dialogus, Agricola, Germania</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL6612316M/Xenophon_..."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/xenophon04xenogoog"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L090.pdf"/>
-    <ns0:title>Xenophon -- Volume III: Anabasis</ns0:title>
+    <ns0:title>Xenophon -- Anabasis, Books 4-7. Symposium and Apology</ns0:title>
   </rdf:Description>
 </rdf:RDF>

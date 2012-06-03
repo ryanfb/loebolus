@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL19367126M/Josephus"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/josephuswithengl03joseuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L210.pdf"/>
-    <ns0:title>Josephus -- Volume IV: The Jewish War Books 5-7</ns0:title>
+    <ns0:title>Josephus -- Josephus III: The Jewish War Books 4-7</ns0:title>
   </rdf:Description>
 </rdf:RDF>

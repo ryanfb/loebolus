@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23279053M/The_art_of_rhetoric"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/artofrhetoric00arisuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L193.pdf"/>
-    <ns0:title>Aristotle -- Volume XXII: The "Art" of Rhetoric</ns0:title>
+    <ns0:title>Aristotle -- The "Art" of Rhetoric</ns0:title>
   </rdf:Description>
 </rdf:RDF>

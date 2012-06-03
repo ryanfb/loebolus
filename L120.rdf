@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL16203729M/Herodotus"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/herodotus04hero"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L120.pdf"/>
-    <ns0:title>Herodotus -- Persian Wars IV: Books 8-9</ns0:title>
+    <ns0:title>Herodotus -- Herodotus IV: Books 8-9</ns0:title>
   </rdf:Description>
 </rdf:RDF>

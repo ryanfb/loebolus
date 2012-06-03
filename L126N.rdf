@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=AkUFAQAAIAAJ"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L126N.pdf"/>
-    <ns0:title>Quintilian -- Orator's Education III: Books 6-8</ns0:title>
+    <ns0:title>Quintilian -- Quintilian III: Institutio Oratoria Books 7-9</ns0:title>
   </rdf:Description>
 </rdf:RDF>

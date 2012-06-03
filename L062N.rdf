@@ -4,6 +4,6 @@
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=S6pM-L1KuD8C"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L062N.pdf"/>
-    <ns0:title>Seneca -- Volume VIII: Tragedies I</ns0:title>
+    <ns0:title>Seneca -- Tragedies I: Hercules Furens. Troades. Medea. Hippolytus. Oedipus</ns0:title>
   </rdf:Description>
 </rdf:RDF>

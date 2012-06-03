@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL13573609M/Hippocrates"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/hippocrates02hippuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L148.pdf"/>
-    <ns0:title>Hippocrates -- Volume II: Prognostic. Regimen in Acute Diseases. The Sacred Disease. The Art. Breaths. Law. Decorum. Physician (Ch. 1). Dentition</ns0:title>
+    <ns0:title>Hippocrates -- Hippocrates II: Prognostic. Regimen in Acute Diseases. The Sacred Disease. The Art. Breaths. Law. Decorum. Physician (Ch. 1). Dentition</ns0:title>
   </rdf:Description>
 </rdf:RDF>

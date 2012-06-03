@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL17965712M/De_officiis."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/deofficiiswithen00ciceuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L030.pdf"/>
-    <ns0:title>Cicero -- Volume XXI: On Duties</ns0:title>
+    <ns0:title>Cicero -- De Officiis</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL20424848M/The_Characters_of_Theophrastus_newly_edited_and_translated_by_J.M._Edmonds"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/charactersofthe00theouoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L225N.pdf"/>
-    <ns0:title>Theophrastus -- Theophrastus, Characters. Herodas, Mimes. Sophron and Other Mime Fragments</ns0:title>
+    <ns0:title>Theophrastus -- Characters of Theophrastus</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23312244M/Letters."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/letterswithengli04basiuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L270.pdf"/>
-    <ns0:title>Basil -- Volume IV: Letters 249-368. Address to Young Men on Greek Literature</ns0:title>
+    <ns0:title>Basil -- Basil IV: Letters 249-368. Address to Young Men on Greek Literature</ns0:title>
   </rdf:Description>
 </rdf:RDF>

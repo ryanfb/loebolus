@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7180298M/The_works_of_the_Emperor_Julian"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/worksofemperorju02juliuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L029.pdf"/>
-    <ns0:title>Julian -- Volume II: Orations 6-8. Letters to Themistius, To the Senate and People of Athens, To a Priest. The Caesars. Misopogon</ns0:title>
+    <ns0:title>Julian -- Julian II: Orations 6-8. Letters to Themistius, To the Senate and People of Athens, To a Priest. The Caesars. Misopogon</ns0:title>
   </rdf:Description>
 </rdf:RDF>

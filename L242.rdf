@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL19367126M/Josephus"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/josephuswithengl04joseuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L242.pdf"/>
-    <ns0:title>Josephus -- Volume V: Jewish Antiquities Books 1-3</ns0:title>
+    <ns0:title>Josephus -- Josephus IV: Jewish Antiquities Books 1-4</ns0:title>
   </rdf:Description>
 </rdf:RDF>

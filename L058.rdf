@@ -6,6 +6,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7098667M/The_communings_with_himself_of_Marcus_Aurelius_Antoninus_emperor_of_Rome_together_with_his_speeches_"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/thecommuningswit00marcuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L058.pdf"/>
-    <ns0:title>Marcus Aurelius -- Marcus Aurelius</ns0:title>
+    <ns0:title>Marcus Aurelius -- Communings with Himself of Marcus Aurelius Antoninus, Emperor of Rome</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL13578342M/Baedae_Opera_historica"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/operahistoric02bedeuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L248.pdf"/>
-    <ns0:title>Bede -- Ecclesiastical History, Books 4-5. Lives of the Abbots. Letter to Egbert</ns0:title>
+    <ns0:title>Bede -- Opera Historica II: Books 4-5. Lives of the Abbots. Letter to Egbert</ns0:title>
   </rdf:Description>
 </rdf:RDF>

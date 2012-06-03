@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL6645708M/Lyra_graeca"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/lyragraecabeing00edmogoog"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L142.pdf"/>
-    <ns0:title>Campbell, David A -- Greek Lyric I: Sappho and Alcaeus</ns0:title>
+    <ns0:title>Lyra Graeca I: Terpander. Alcman. Sappho. Alcaeus</ns0:title>
   </rdf:Description>
 </rdf:RDF>

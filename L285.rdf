@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL18074182M/The_Athenian_Constitution_The_Eudemian_ethics_On_virtues_and_vices"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/athenianconstitu00arisuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L285.pdf"/>
-    <ns0:title>Aristotle -- Volume XX: Athenian Constitution. Eudemian Ethics. Virtues and Vices</ns0:title>
+    <ns0:title>Aristotle -- Athenian Constitution. Eudemian Ethics. Virtues and Vices</ns0:title>
   </rdf:Description>
 </rdf:RDF>

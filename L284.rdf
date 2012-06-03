@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23319657M/Minor_Latin_poets"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/minorlatinpoetsw00duffuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L284.pdf"/>
-    <ns0:title>Minor Latin Poets -- Minor Latin Poets I: Publilius Syrus. Elegies on Maecenas. Grattius. Calpurnius Siculus. Laus Pisonis. Einsiedeln Eclogues. Aetna</ns0:title>
+    <ns0:title>Minor Latin Poets -- Minor Latin Poets</ns0:title>
   </rdf:Description>
 </rdf:RDF>

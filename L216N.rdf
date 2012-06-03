@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL13443897M/The_letters_to_his_friends"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/letterstohisfrie02ciceuoft"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L216N.pdf"/>
-    <ns0:title>Cicero -- Volume XXVI: Letters to Friends 114-280</ns0:title>
+    <ns0:title>Cicero -- Letters to His Friends II: Books 7-12</ns0:title>
   </rdf:Description>
 </rdf:RDF>

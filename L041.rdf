@@ -5,6 +5,6 @@
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL14011312M/Heroides_and_Amores"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/heroidesamores00ovid"/>
     <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L041.pdf"/>
-    <ns0:title>Ovid -- Volume I: Heroides. Amores</ns0:title>
+    <ns0:title>Ovid -- Heroides. Amores</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:ns0="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L374.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL18074136M/Funeral_speech_Erotic_essay_60_61_Exordia_and_Letters_with_an_English_translation_by_Norman_W._DeWit"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/funeralspeechero00demouoft"/>
-    <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L374.pdf"/>
+    <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L374.pdf"/>
     <ns0:title>Demosthenes -- Demosthenes VII: Funeral Speech (60). Erotic Essay (61). Exordia. Letters</ns0:title>
   </rdf:Description>
 </rdf:RDF>

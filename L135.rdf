@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:ns0="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L135.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=-xoMAAAAIAAJ"/>
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL7048235M/Claudian"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/claudian01clau"/>
-    <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L135.pdf"/>
+    <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L135.pdf"/>
     <ns0:title>Claudian -- Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2. War Against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage of Honorius. Epithalamium of Honorius and Maria. Panegyrics on the Third and Fourth Consulships of Honorius. Paneg</ns0:title>
   </rdf:Description>
 </rdf:RDF>

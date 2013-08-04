@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:ns0="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L183.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23331600M/Scripta_minora_with_an_English_translation_by_E.C._Marchant"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/scriptaminorawit00xenouoft"/>
-    <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L183.pdf"/>
+    <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L183.pdf"/>
     <ns0:title>Xenophon -- Scripta Minora: Hiero. Agesilaus. Constitution of the Lacedaemonians. Ways and Means. Cavalry Commander. Art of Horsemanship. On Hunting. Constitution of the Athenians</ns0:title>
   </rdf:Description>
 </rdf:RDF>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:ns0="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L431.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL14021111M/Lucian"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/lucianmac07luciuoft"/>
-    <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L431.pdf"/>
+    <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L431.pdf"/>
     <ns0:title>Lucian -- Lucian VII: Dialogues of the Dead. Dialogues of the Sea-Gods. Dialogues of the Gods. Dialogues of the Courtesans</ns0:title>
   </rdf:Description>
 </rdf:RDF>

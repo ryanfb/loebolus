@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:ns0="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L355.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23315794M/Livy"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/livywithenglisht06livyuoft"/>
-    <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L355.pdf"/>
+    <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L355.pdf"/>
     <ns0:title>Livy -- Livy VI: Books 23-25</ns0:title>
   </rdf:Description>
 </rdf:RDF>

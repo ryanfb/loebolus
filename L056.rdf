@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:ns0="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L056.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL23322558M/The_odes_of_Pindar_including_the_principal_fragments"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/odesofpindarsand00pinduoft"/>
-    <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L056.pdf"/>
+    <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L056.pdf"/>
     <ns0:title>Pindar -- Odes of Pindar Including the Principal Fragments</ns0:title>
   </rdf:Description>
 </rdf:RDF>

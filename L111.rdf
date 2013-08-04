@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:ns0="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L111.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://openlibrary.org/books/OL6688656M/The_Histories"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/histories01taciuoft"/>
-    <ns0:source rdf:resource="http://s3.amazonaws.com/loebolus/L111.pdf"/>
+    <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L111.pdf"/>
     <ns0:title>Tacitus -- Histories I: Books 1-3</ns0:title>
   </rdf:Description>
 </rdf:RDF>

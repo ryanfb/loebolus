@@ -23,7 +23,7 @@ associations.sort.map do |key,value|
     writer << RDF::Graph.new do |graph|
       resource = RDF::Resource.new("#{root_url}#{key}.rdf")
       graph << [resource, RDF::DC.isPartOf, root_resource]
-      graph << [resource, RDF::DC.source, RDF::Resource.new("http://s3.amazonaws.com/loebolus/#{key}.pdf")]
+      graph << [resource, RDF::DC.source, RDF::Resource.new("http://ryanfb.github.io/loebolus-data/#{key}.pdf")]
       if associations[key].include?('title')
         graph << [resource, RDF::DC.title, associations[key]['title']]
       end

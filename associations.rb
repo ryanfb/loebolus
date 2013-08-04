@@ -15,12 +15,13 @@ def get_redirect(uri)
   res['location']
 end
 
-def is_403?(uri)
+def is_200?(uri)
   url = URI.parse(uri)
   res = Net::HTTP.start(url.host, url.port) {|http|
     http.head(url.path)
   }
-  res.code == '403'
+  $stderr.puts "#{res.code} for #{uri}"
+  res.code == '200'
 end
 
 doc = Nokogiri::HTML(open('http://www.edonnelly.com/loebs.html'))
@@ -41,7 +42,7 @@ doc.xpath('//a[contains(@href,"books.google.com") or contains(@href,"www.archive
 
   loeb = loeb.content
 
-  unless is_403?("http://s3.amazonaws.com/loebolus/#{loeb}.pdf")
+  if is_200?("http://ryanfb.github.io/loebolus-data/#{loeb}.pdf")
     unless associations.has_key? loeb
       associations[loeb] = {}
       associations[loeb]['title'] = title

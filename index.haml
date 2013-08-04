@@ -30,7 +30,7 @@
       by re-hosting the PDF's directly, without the need to enter CAPTCHA's.
     %p
       You can also download
-      %a{:href => 'http://rfbaumann.com/loebolus.zip'}
+      %a{:href => 'https://github.com/ryanfb/loebolus-data/archive/master.zip'}
         a .zip containing all #{associations.keys.length} PDF's
       (3.2GB).
       Or
@@ -39,7 +39,7 @@
     %ul
       - associations.sort.map do |key,value|
         %li
-          %a{:href => "http://s3.amazonaws.com/loebolus/#{key}.pdf"}
+          %a{:href => "http://ryanfb.github.io/loebolus-data/#{key}.pdf"}
             #{key} - #{value['title']}
     %small
       By downloading any of these files, you agree that you have verified that it is legal to do so from your territory. If you believe you are the copyright holder on any of these files and that they are <strong>not</strong> in the public domain in the United States, please <a href='mailto:ryan.baumann@gmail.com'>contact me</a>.

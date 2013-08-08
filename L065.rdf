@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L065.rdf">
+    <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
+    <ns0:relation rdf:resource="http://openlibrary.org/books/OL7244841M/Lives."/>
+    <ns0:relation rdf:resource="http://www.archive.org/details/liveswithenglish03plutuoft"/>
+    <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L065.pdf"/>
+    <ns0:title>Plutarch -- Lives III: Pericles and Fabius Maximus. Nicias and Crassus</ns0:title>
+  </rdf:Description>
+</rdf:RDF>

@@ -3,13 +3,16 @@
 require 'rubygems'
 require 'nokogiri'
 require 'yaml'
-require 'net/http'
+require 'net/https'
 require 'uri'
 require 'open-uri'
 
 def get_redirect(uri)
   url = URI.parse(uri)
-  res = Net::HTTP.start(url.host, url.port) {|http|
+  http = Net::HTTP.new(url.host, url.port)
+  http.use_ssl = true
+  http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+  res = http.start {|http|
     http.head(url.path)
   }
   res['location']
@@ -52,7 +55,7 @@ doc.xpath('//a[contains(@href,"books.google.com") or contains(@href,"www.archive
       associations[loeb]['archive'] = link['href']
 
       id = link['href'].split('/').last
-      associations[loeb]['openlibrary'] = get_redirect("http://openlibrary.org/ia/#{id}")
+      associations[loeb]['openlibrary'] = get_redirect("https://openlibrary.org/ia/#{id}")
     else
       associations[loeb]['google'] = link['href']
     end

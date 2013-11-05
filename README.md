@@ -9,4 +9,4 @@ The tools used to construct the site are:
  * `yaml2html.rb` - builds the index HTML using the association YAML and `index.haml`
  * `yaml2rdf.rb` - builds the assocation RDF using the association YAML
 
-To use the tools you'll need to do: `gem install haml nokogiri rdf rdf-rdfxml` 
+To use the tools you'll need to do: `bundle install`

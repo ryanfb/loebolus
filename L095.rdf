@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L095.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=6odfAAAAMAAJ"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL7097061M/Martial_epigrams"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/martialepigrams02martiala"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL7097061M/Martial_epigrams"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L095.pdf"/>
     <ns0:title>Martial -- Epigrams II: Books 8-14</ns0:title>
   </rdf:Description>

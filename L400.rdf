@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L400.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL17966022M/On_sophistical_refutations_and_On_coming-to-be_and_passing_away_translated_by_E.S._Forster."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/onsophisticalref00arisuoft"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL17966022M/On_sophistical_refutations_and_On_coming-to-be_and_passing_away_translated_by_E.S._Forster."/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L400.pdf"/>
     <ns0:title>Aristotle -- On Sophistical Refutations. On Coming-to-be and Passing Away. On the Cosmos</ns0:title>
   </rdf:Description>

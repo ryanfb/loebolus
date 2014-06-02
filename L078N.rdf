@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L078N.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=4R1SKQsZQaUC"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL7044392M/Tragedies"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/tragedies00sene"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL7044392M/Tragedies"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L078N.pdf"/>
     <ns0:title>Seneca -- Tragedies II: Agamemnon. Thyestes. Hercules Oetaeus. Phoenissae. Octavia</ns0:title>
   </rdf:Description>

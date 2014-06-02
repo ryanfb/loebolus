@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L201.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL23285861M/Charmides_Alcibiades_1_and_2_Hipparchus_The_lovers_Theages_Minos_Epinomis."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/charmidesalcibia00platuoft"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL23285861M/Charmides_Alcibiades_1_and_2_Hipparchus_The_lovers_Theages_Minos_Epinomis."/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L201.pdf"/>
     <ns0:title>Plato -- Charmides. Alcibiades 1 &amp; 2. Hipparchus. The Lovers. Theages. Minos. Epinomis</ns0:title>
   </rdf:Description>

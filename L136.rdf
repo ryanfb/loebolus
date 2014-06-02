@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L136.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=KBsMAAAAIAAJ"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL24360031M/Claudian"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/claudian02clau"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL24360031M/Claudian"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L136.pdf"/>
     <ns0:title>Claudian -- On Stilicho's Consulship 2-3. Panegyric on the Sixth Consulship of Honorius. The Gothic War. Shorter Poems. Rape of Proserpina</ns0:title>
   </rdf:Description>

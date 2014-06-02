@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L090.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=vFA8t__AArcC"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL6612316M/Xenophon_..."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/xenophon04xenogoog"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL6612316M/Xenophon_..."/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L090.pdf"/>
     <ns0:title>Xenophon -- Anabasis, Books 4-7. Symposium and Apology</ns0:title>
   </rdf:Description>

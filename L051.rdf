@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L051.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=gaQNAAAAIAAJ"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL23292238M/Cyropaedia_with_an_English_translation_by_Walter_Miller"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/cyropaediawithen01xenouoft"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL23292238M/Cyropaedia_with_an_English_translation_by_Walter_Miller"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L051.pdf"/>
     <ns0:title>Xenophon -- Cyropaedia I: Books 1-4</ns0:title>
   </rdf:Description>

@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L137.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=NWdiAAAAMAAJ"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL7027151M/The_histories"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/historieswitheng02poly"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL7027151M/The_histories"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L137.pdf"/>
     <ns0:title>Polybius -- Histories II: Books 3-4</ns0:title>
   </rdf:Description>

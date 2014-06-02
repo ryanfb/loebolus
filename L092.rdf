@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L092.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=KxY6AAAAMAAJ"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL7047377M/Clement_of_Alexandria"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/clementofalexand00clem"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL7047377M/Clement_of_Alexandria"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L092.pdf"/>
     <ns0:title>Clement of Alexandria -- The Exhortation to the Greeks. The Rich Man's Salvation. To the Newly Baptized (fragment)</ns0:title>
   </rdf:Description>

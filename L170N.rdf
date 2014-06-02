@@ -2,7 +2,7 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L170N.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/ia:HomersIliadloeb1/Homer's_Iliad_Loeb_1"/>
+    <ns0:relation rdf:resource=""/>
     <ns0:relation rdf:resource="http://www.archive.org/details/HomersIliadloeb1"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L170N.pdf"/>
     <ns0:title>Homer -- Iliad I: Books 1-12</ns0:title>

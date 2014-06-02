@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L074.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=RmVJAAAAMAAJ"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL7045345M/The_theological_tractates"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/theologicaltract00boet"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL7045345M/The_theological_tractates"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L074.pdf"/>
     <ns0:title>Boethius -- Theological Tractates and The Consolation of Philosophy</ns0:title>
   </rdf:Description>

@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L005.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=Xex81ufLfoIC"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL15087182M/Appians̕_Roman_history"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/appiansromanhist04appi"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL15087182M/Appians̕_Roman_history"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L005.pdf"/>
     <ns0:title>Appian -- Roman History IV: The Civil Wars, Books 3.27-5</ns0:title>
   </rdf:Description>

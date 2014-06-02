@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L323.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL20424698M/Parts_of_animals"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/partsofanimals00aris"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL20424698M/Parts_of_animals"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L323.pdf"/>
     <ns0:title>Aristotle -- Parts of Animals. Movement of Animals. Progression of Animals</ns0:title>
   </rdf:Description>

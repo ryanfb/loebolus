@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L010N.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=ti5JAAAAYAAJ"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL20424625M/Euripides"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/euripideswitheng02euri"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL20424625M/Euripides"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L010N.pdf"/>
     <ns0:title>Euripides -- Euripides II: Electra. Orestes. Iphigeneia in Taurica. Andromache. Cyclops</ns0:title>
   </rdf:Description>

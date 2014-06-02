@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L358.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL18074687M/Dio_Chrysostom_with_an_English_translation_by_J.W._Cohoon"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/diochrysostomwit03diocuoft"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL18074687M/Dio_Chrysostom_with_an_English_translation_by_J.W._Cohoon"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L358.pdf"/>
     <ns0:title>Dio Chrysostom -- Dio Chrysostom III: Discourses 31-36</ns0:title>
   </rdf:Description>

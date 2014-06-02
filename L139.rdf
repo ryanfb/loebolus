@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L139.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=MhdvmnB7wVYC"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL7121060M/The_Scriptores_historiae_augustae_with_an_English_translation"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/scriptoreshistor01camb"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL7121060M/The_Scriptores_historiae_augustae_with_an_English_translation"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L139.pdf"/>
     <ns0:title>Scriptores Historiae Augustae I: Hadrian. Aelius. Antoninus Pius. Marcus Aurelius. L. Verus. Avidius Cassius. Commodus. Pertinax. Didius Julianus. Septimius Severus. Pescennius Niger. Clodius Albinus</ns0:title>
   </rdf:Description>

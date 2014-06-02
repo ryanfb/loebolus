@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L023N.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=IRwMAAAAIAAJ"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL14044827M/Terence"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/terence00tereuoft"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL14044827M/Terence"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L023N.pdf"/>
     <ns0:title>Terence -- Terence II: Phormio. The Mother-in-Law. The Brothers</ns0:title>
   </rdf:Description>

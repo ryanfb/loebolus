@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L130.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=4RLYi8psjpcC"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL14021111M/Lucian"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/lucianhar03luciuoft"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL14021111M/Lucian"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L130.pdf"/>
     <ns0:title>Lucian -- Lucian III: The Dead Come to Life or The Fisherman. The Double Indictment or Trials by Jury. On Sacrifices. The Ignorant Book Collector. The Dream or Lucian's Career. The Parasite. The Lover of Lies. The Judgement of the Goddesses…</ns0:title>
   </rdf:Description>

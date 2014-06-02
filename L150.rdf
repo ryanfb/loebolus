@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L150.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL13573609M/Hippocrates"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/hippocrates04hippuoft"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL13573609M/Hippocrates"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L150.pdf"/>
     <ns0:title>Hippocrates -- Hippocrates IV: Nature of Man. Regimen in Health. Humours. Aphorisms. Regimen 1-3. Dreams. Heracleitus: On the Universe</ns0:title>
   </rdf:Description>

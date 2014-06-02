@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L029.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=jWdiAAAAMAAJ"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL7180298M/The_works_of_the_Emperor_Julian"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/worksofemperorju02juliuoft"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL7180298M/The_works_of_the_Emperor_Julian"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L029.pdf"/>
     <ns0:title>Julian -- Julian II: Orations 6-8. Letters to Themistius, To the Senate and People of Athens, To a Priest. The Caesars. Misopogon</ns0:title>
   </rdf:Description>

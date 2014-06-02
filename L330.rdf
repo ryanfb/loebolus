@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L330.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL23321225M/Natural_history"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/naturalhistory01plinuoft"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL23321225M/Natural_history"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L330.pdf"/>
     <ns0:title>Pliny -- Natural History I: Books 1-2</ns0:title>
   </rdf:Description>

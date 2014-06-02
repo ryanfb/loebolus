@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L174.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL17965979M/The_Stratagems_and_the_Aqueducts_of_Rome_with_an_English_translation"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/stratagemsaquedu00fronuoft"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL17965979M/The_Stratagems_and_the_Aqueducts_of_Rome_with_an_English_translation"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L174.pdf"/>
     <ns0:title>Frontinus -- Stratagems. Aqueducts of Rome</ns0:title>
   </rdf:Description>

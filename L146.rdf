@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L146.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL23269521M/Aeschylus_with_an_English_translation_by_Herbert_Weir_Smyth."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/aeschyluswitheng02aescuoft"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL23269521M/Aeschylus_with_an_English_translation_by_Herbert_Weir_Smyth."/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L146.pdf"/>
     <ns0:title>Aeschylus -- Agamemnon. Libation-Bearers. Eumenides. Fragments</ns0:title>
   </rdf:Description>

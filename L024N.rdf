@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L024N.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=iqoNAAAAIAAJ"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL7152411M/The_Apostolic_fathers"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/theapostolicfath00unknuoft"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL7152411M/The_Apostolic_fathers"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L024N.pdf"/>
     <ns0:title>Apostolic Fathers I: I Clement. II Clement. Ignatiius. Polycarp. Didache. Barnaba</ns0:title>
   </rdf:Description>

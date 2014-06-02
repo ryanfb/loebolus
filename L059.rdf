@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L059.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=TTsMAAAAIAAJ"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL7110338M/Letters."/>
     <ns0:relation rdf:resource="http://www.archive.org/details/letterswithengli02plinuoft"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL7110338M/Letters."/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L059.pdf"/>
     <ns0:title>Pliny the Younger -- Letters II: Books 7-10</ns0:title>
   </rdf:Description>

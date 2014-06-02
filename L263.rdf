@@ -3,8 +3,8 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L263.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://books.google.com/books?id=teHTdGpmuJIC"/>
-    <ns0:relation rdf:resource="http://openlibrary.org/books/OL7121060M/The_Scriptores_historiae_augustae_with_an_English_translation"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/scriptoreshistor03camb"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL7121060M/The_Scriptores_historiae_augustae_with_an_English_translation"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L263.pdf"/>
     <ns0:title>Scriptores Historiae Augustae III: The Two Valerians. The Two Gallieni. The Thirty Pretenders. The Deified Claudius. The Deified Aurelian. Tacitus. Probus. Firmus, Saturninus, Proculus and Bonosus. Carus, Carinus and Numerian</ns0:title>
   </rdf:Description>

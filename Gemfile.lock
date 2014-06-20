@@ -1,0 +1,27 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    addressable (2.3.5)
+    haml (4.0.4)
+      tilt
+    mini_portile (0.5.2)
+    nokogiri (1.6.0)
+      mini_portile (~> 0.5.0)
+    rdf (1.0.10)
+      addressable (>= 2.3)
+    rdf-rdfxml (1.0.3)
+      rdf (>= 1.0)
+      rdf-xsd (>= 1.0)
+    rdf-xsd (1.0.2.1)
+      nokogiri (>= 1.5.0)
+      rdf (>= 0.3.4)
+    tilt (1.4.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  haml
+  nokogiri
+  rdf
+  rdf-rdfxml

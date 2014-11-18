@@ -1,0 +1,1094 @@
+---
+L001:
+  title: Apollonius Rhodius -- Apollonius Rhodius. Argonautica
+  google: http://books.google.com/books?id=O5ANAAAAIAAJ
+L002:
+  title: 'Appian -- Roman History I: Books 1-8.1'
+  google: http://books.google.com/books?id=LHg0u8q9bL8C
+  archive: http://www.archive.org/details/appiansromanhist01appi
+  openlibrary: https://openlibrary.org/books/OL7041812M/Appian's_Roman_history
+L003:
+  title: 'Appian -- Roman History II: Books 8.2-12'
+  archive: http://www.archive.org/details/appiansromanhist02appi
+  openlibrary: !binary |-
+    aHR0cHM6Ly9vcGVubGlicmFyeS5vcmcvYm9va3MvT0wxNTA4NzE4Mk0vQXBw
+    aWFuc8yVX1JvbWFuX2hpc3Rvcnk=
+L004:
+  title: 'Appian -- Roman History III: The Civil Wars, Books 1-3.26'
+  archive: http://www.archive.org/details/appiansromanhist03appi
+  openlibrary: !binary |-
+    aHR0cHM6Ly9vcGVubGlicmFyeS5vcmcvYm9va3MvT0wxNTA4NzE4Mk0vQXBw
+    aWFuc8yVX1JvbWFuX2hpc3Rvcnk=
+L005:
+  title: 'Appian -- Roman History IV: The Civil Wars, Books 3.27-5'
+  google: http://books.google.com/books?id=Xex81ufLfoIC
+  archive: http://www.archive.org/details/appiansromanhist04appi
+  openlibrary: !binary |-
+    aHR0cHM6Ly9vcGVubGlicmFyeS5vcmcvYm9va3MvT0wxNTA4NzE4Mk0vQXBw
+    aWFuc8yVX1JvbWFuX2hpc3Rvcnk=
+L007N:
+  title: Cicero -- Letters to Atticus I
+  google: http://books.google.com/books?id=4yW3YNAWmwQC
+  archive: http://www.archive.org/details/letterstoatticus01ciceuoft
+  openlibrary: https://openlibrary.org/books/OL7217477M/Letters_to_Atticus_with_an_English_translation_by_E.O._Winstedt.
+L008N:
+  title: Cicero -- Letters to Atticus II
+  google: http://books.google.com/books?id=dMyx1LfFZoQC
+  archive: http://www.archive.org/details/letterstoatticus02ciceuoft
+  openlibrary: https://openlibrary.org/books/OL7078087M/Letters_to_Atticus_with_an_English_translation_by_E.O._Winstedt.
+L009:
+  title: 'Euripides -- Euripides I: Iphigenia at Aulis. Rhesus. Hecuba. The Daughters
+    of Troy. Helen'
+  google: http://books.google.com/books?id=GmRiAAAAMAAJ
+  archive: http://www.archive.org/details/euripidesway01euriuoft
+  openlibrary: https://openlibrary.org/books/OL23298544M/Euripides
+L010N:
+  title: 'Euripides -- Euripides II: Electra. Orestes. Iphigeneia in Taurica. Andromache.
+    Cyclops'
+  google: http://books.google.com/books?id=ti5JAAAAYAAJ
+  archive: http://www.archive.org/details/euripideswitheng02euri
+  openlibrary: https://openlibrary.org/books/OL20424625M/Euripides
+L011N:
+  title: 'Euripides -- Euripides III: Bacchanals. Madness of Hercules. Children of
+    Hercules. Phoenician Maidens. Suppliants'
+  google: http://books.google.com/books?id=KmViAAAAMAAJ
+  archive: http://www.archive.org/details/euripidesway03euriuoft
+  openlibrary: https://openlibrary.org/books/OL23298544M/Euripides
+L012:
+  title: 'Euripides -- Euripides IV: Ion. Hippolytus. Medea. Alcestis'
+  google: http://books.google.com/books?id=gS9JAAAAYAAJ
+  archive: http://www.archive.org/details/euripidesway04euriuoft
+  openlibrary: https://openlibrary.org/books/OL23298544M/Euripides
+L013:
+  title: 'Julian -- Julian I: Orations 1-5'
+  google: http://books.google.com/books?id=vmZiAAAAMAAJ
+L014:
+  title: 'Lucian -- Lucian I: Phalaris. Hippias or The Bath. Dionysus. Heracles. Amber
+    or The Swans. The Fly. Nigrinus. Demonax. The Hall. My Native Land. Octogenarians.
+    A True Story. Slander. The Consonants at Law. The Carousal (Symposium) or The
+    Lapiths'
+  google: http://books.google.com/books?id=Y2tiAAAAMAAJ
+  archive: http://www.archive.org/details/lucianha01luciuoft
+  openlibrary: https://openlibrary.org/books/OL14021111M/Lucian
+L015:
+  title: Petronius -- Satyricon. Apocolocyntosis
+  google: http://books.google.com/books?id=SXlfAAAAMAAJ
+L016N:
+  title: Philostratus -- Life of Apollonius of Tyana I
+  google: http://books.google.com/books?id=nzghyc2nJbMC
+L017N:
+  title: Philostratus -- Life of Apollonius of Tyana II
+  google: http://books.google.com/books?id=sVu2B54Pq4EC
+L018N:
+  title: Propertius -- Propertius
+  google: http://books.google.com/books?id=AGgQnqs5_yUC
+L019:
+  title: Quintus Smyrnaeus -- Fall of Troy
+  google: http://books.google.com/books?id=dzuucsTbUXcC
+  archive: http://www.archive.org/details/falloftroy00quin
+  openlibrary: https://openlibrary.org/books/OL7041781M/The_fall_of_Troy
+L020:
+  title: 'Sophocles -- Sophocles I: Oedipus the King. Oedipus at Colonus. Antigone'
+  google: http://books.google.com/books?id=5qUNAAAAIAAJ
+L021:
+  title: 'Sophocles -- Sophocles II: Ajax. Electra. Trachiniae. Philoctetes.'
+  google: http://books.google.com/books?id=JKYNAAAAIAAJ
+L022N:
+  title: 'Terence -- Terence I: The Lady of Andeos. The Self-Tormentor. The Eunich'
+  google: http://books.google.com/books?id=0BsMAAAAIAAJ
+L023N:
+  title: 'Terence -- Terence II: Phormio. The Mother-in-Law. The Brothers'
+  google: http://books.google.com/books?id=IRwMAAAAIAAJ
+  archive: http://www.archive.org/details/terence00tereuoft
+  openlibrary: https://openlibrary.org/books/OL14044827M/Terence
+L024N:
+  title: 'Apostolic Fathers I: I Clement. II Clement. Ignatiius. Polycarp. Didache.
+    Barnaba'
+  google: http://books.google.com/books?id=iqoNAAAAIAAJ
+  archive: http://www.archive.org/details/theapostolicfath00unknuoft
+  openlibrary: https://openlibrary.org/books/OL7152411M/The_Apostolic_fathers
+L025N:
+  title: 'Apostolic Fathers II: Shepherd of Hermas. Martyrdom of Polycarp. Epistle
+    to Diognetus.'
+  google: http://books.google.com/books?id=lqsNAAAAIAAJ
+L026:
+  title: 'Augustine -- Confessions I: Books 1-8'
+  google: http://books.google.com/books?id=6zEMAQAAIAAJ
+  archive: http://www.archive.org/details/staugustinesconf01augu
+  openlibrary: https://openlibrary.org/books/OL23340761M/St._Augustine's_Confessions
+L027:
+  title: 'Augustine -- Confessions II: Books 9-13'
+  archive: http://www.archive.org/details/staugustinesconf02augu
+  openlibrary: https://openlibrary.org/books/OL23340761M/St._Augustine's_Confessions
+L028:
+  title: Greek Bucolic Poets
+  google: http://books.google.com/books?id=IMrCpKxmgCUC
+L029:
+  title: 'Julian -- Julian II: Orations 6-8. Letters to Themistius, To the Senate
+    and People of Athens, To a Priest. The Caesars. Misopogon'
+  google: http://books.google.com/books?id=jWdiAAAAMAAJ
+  archive: http://www.archive.org/details/worksofemperorju02juliuoft
+  openlibrary: https://openlibrary.org/books/OL7180298M/The_works_of_the_Emperor_Julian
+L030:
+  title: Cicero -- De Officiis
+  google: http://books.google.com/books?id=tKb-ah7iIgAC
+  archive: http://www.archive.org/details/deofficiiswithen00ciceuoft
+  openlibrary: https://openlibrary.org/books/OL17965712M/De_officiis.
+L031:
+  title: 'Suetonius -- Suetonius I: Julius. Augustus. Tiberius. Gaius. Caligula'
+  google: http://books.google.com/books?id=NJv_zeFbFi4C
+L032:
+  title: 'Dio Cassius -- Dio''s Roman History I: Fragments of Books 1-11'
+  google: http://books.google.com/books?id=0FaIMECEZgoC
+L034:
+  title: John Damascene -- Barlaam and Ioasaph
+  google: http://books.google.com/books?id=RVRFAAAAYAAJ
+L035:
+  title: Tacitus -- Dialogus, Agricola, Germania
+  google: http://books.google.com/books?id=zB0cAQAAIAAJ
+L036:
+  title: Plato -- Euthyphro. Apology. Crito. Phaedo. Phaedrus
+  google: http://books.google.com/books?id=qFIMAAAAIAAJ
+  archive: http://www.archive.org/details/plato01plat
+  openlibrary: https://openlibrary.org/books/OL7209190M/Plato
+L037:
+  title: 'Dio Cassius -- Dio''s Roman History II: Fragments of Books 12-35 and of
+    Uncertain Reference'
+  google: http://books.google.com/books?id=wcdiAAAAMAAJ
+L038:
+  title: 'Suetonius -- Suetonius II: Claudius. Nero. Galba, Otho, and Vitellius. Vespasian.
+    Titus, Domitian. Lives of Illustrious Men: Grammarians and Rhetoricians. Poets
+    (Terence. Virgil. Horace. Tibullus. Persius. Lucan). Lives of Pliny the Elder
+    and Passienus Crispus'
+  google: http://books.google.com/books?id=s6b9HA_WE28C
+  archive: http://www.archive.org/details/suetonius02suetuoft
+  openlibrary: https://openlibrary.org/books/OL13440777M/Suetonius
+L039:
+  title: Caesar -- The Civil Wars
+  google: http://books.google.com/books?id=PaQNAAAAIAAJ
+L040:
+  title: Cicero -- De Finibus Bonorum et Malorum
+  google: http://books.google.com/books?id=C0ZuoEMeeeAC
+  archive: http://www.archive.org/details/definibusbonoru02cicegoog
+  openlibrary: https://openlibrary.org/books/OL6568594M/De_finibus_bonorum_et_malorum
+L041:
+  title: Ovid -- Heroides. Amores
+  archive: http://www.archive.org/details/heroidesamores00ovid
+  openlibrary: https://openlibrary.org/books/OL14011312M/Heroides_and_Amores
+L042:
+  title: 'Ovid -- Metamorphoses I: Books 1-8'
+  archive: http://www.archive.org/details/metamorphoses01oviduoft
+  openlibrary: https://openlibrary.org/books/OL7078755M/Metamorphoses
+L043:
+  title: 'Ovid -- Metamorphoses II: Books 9-15'
+  google: http://books.google.com/books?id=gWhfAAAAMAAJ
+L044:
+  title: Apuleius -- The Golden Ass
+  archive: http://www.archive.org/details/goldenassbeingme00apuliala
+  openlibrary: https://openlibrary.org/books/OL7152328M/The_golden_ass
+L045:
+  title: Achilles Tatius -- Clitophon and Leucippe
+  google: http://books.google.com/books?id=szH1UVBtSzcC
+L046:
+  title: 'Plutarch -- Lives I: Theseus and Romulus. Lycurgus and Numa. Solon and Publicola'
+  google: http://books.google.com/books?id=xWYMAAAAIAAJ
+  archive: http://www.archive.org/details/plutarchslives01plut2
+  openlibrary: https://openlibrary.org/books/OL7056271M/Plutarch's_Lives
+L047:
+  title: 'Plutarch -- Lives II: Themistocles and Camillus. Aristides and Cato Major.
+    Cimon and Lucullus'
+  google: http://books.google.com/books?id=xmYMAAAAIAAJ
+  archive: http://www.archive.org/details/plutarchslives02plut2
+  openlibrary: https://openlibrary.org/books/OL7056271M/Plutarch's_Lives
+L048:
+  title: 'Procopius -- Procopius I: History of the Wars, Books 1-2. (Persian War)'
+  google: http://books.google.com/books?id=9IQbAAAAMAAJ
+  archive: http://www.archive.org/details/procopiuswitheng01procuoft
+  openlibrary: https://openlibrary.org/books/OL7127413M/Procopius_with_an_English_translation_by_H.B._Dewing
+L049:
+  title: 'Strabo -- Geography I: Books 1-2'
+  google: http://books.google.com/books?id=nqcNAAAAIAAJ
+  archive: http://www.archive.org/details/geographystrabo01stergoog
+  openlibrary: https://openlibrary.org/books/OL13578251M/The_geography_of_Strabo
+L051:
+  title: 'Xenophon -- Cyropaedia I: Books 1-4'
+  google: http://books.google.com/books?id=gaQNAAAAIAAJ
+  archive: http://www.archive.org/details/cyropaediawithen01xenouoft
+  openlibrary: https://openlibrary.org/books/OL23292238M/Cyropaedia_with_an_English_translation_by_Walter_Miller
+L052:
+  title: 'Xenophon -- Cyropaedia II: Books 5-8'
+  google: http://books.google.com/books?id=I13EUvMSDyIC
+  archive: http://www.archive.org/details/cyropaedia03xenogoog
+  openlibrary: https://openlibrary.org/books/OL6568595M/Cyropaedia
+L053:
+  title: 'Dio Cassius -- Dio''s Roman History III: Books 36-40'
+  google: http://books.google.com/books?id=3EhhOznnQG0C
+  archive: http://www.archive.org/details/diosromanhistory03cassuoft
+  openlibrary: https://openlibrary.org/books/OL7175490M/Dio's_Roman_history_with_an_English_translation_by_Earnest_Cary_PH.D._on_the_basis_of_the_version_of
+L054:
+  title: 'Lucian -- Lucian II: The Downward Journey or The Tyrant. Zeus Catechized.
+    Zeus Rants. The Dream or The Cock. Prometheus. Icaromenippus or The Sky-man. Timon
+    or The Misanthrope. Charon or The Inspectors. Philosophies for Sale'
+  google: http://books.google.com/books?id=yslZWHpj424C
+  archive: http://www.archive.org/details/lucianhar02luciuoft
+  openlibrary: https://openlibrary.org/books/OL14021111M/Lucian
+L055:
+  title: 'Pliny the Younger -- Letters I: Books 1-7'
+  google: http://books.google.com/books?id=yXhfAAAAMAAJ
+  archive: http://www.archive.org/details/letterswithengli01plinuoft
+  openlibrary: https://openlibrary.org/books/OL13508821M/Letters.
+L056:
+  title: Pindar -- Odes of Pindar Including the Principal Fragments
+  archive: http://www.archive.org/details/odesofpindarsand00pinduoft
+  openlibrary: https://openlibrary.org/books/OL23322558M/The_odes_of_Pindar_including_the_principal_fragments
+L057N:
+  title: Hesiod -- Homeric Hymns and Homerica
+  archive: http://www.archive.org/details/hesiodhomerichym00hesiuoft
+  openlibrary: https://openlibrary.org/books/OL7066534M/Hesiod_the_Homeric_hymns_and_Homerica
+L058:
+  title: Marcus Aurelius -- Communings with Himself of Marcus Aurelius Antoninus,
+    Emperor of Rome
+  google: http://books.google.com/books?id=H51fAAAAMAAJ
+  archive: http://www.archive.org/details/thecommuningswit00marcuoft
+  openlibrary: https://openlibrary.org/books/OL7098667M/The_communings_with_himself_of_Marcus_Aurelius_Antoninus_emperor_of_Rome_together_with_his_speeches_
+L059:
+  title: 'Pliny the Younger -- Letters II: Books 7-10'
+  google: http://books.google.com/books?id=TTsMAAAAIAAJ
+  archive: http://www.archive.org/details/letterswithengli02plinuoft
+  openlibrary: https://openlibrary.org/books/OL7110338M/Letters.
+L060:
+  title: 'Plautus -- Plautus I: Amphitryon. The Comedy of Asses. The Pot of Gold.
+    The Two Bacchises. The Captives'
+  google: http://books.google.com/books?id=7qKEAAAAIAAJ
+L061:
+  title: 'Plautus -- Plautus II: Casina. The Casket Comedy. Curculio. Epidicus. The
+    Two Menaechmuses'
+  google: http://books.google.com/books?id=tIZfAAAAMAAJ
+L062N:
+  title: 'Seneca -- Tragedies I: Hercules Furens. Troades. Medea. Hippolytus. Oedipus'
+  google: http://books.google.com/books?id=S6pM-L1KuD8C
+L063N:
+  title: Virgil -- Eclogues. Georgics. Aeneid, Books 1-6
+  google: http://books.google.com/books?id=ERsMAAAAIAAJ&printsec=titlepage
+L064N:
+  title: Virgil -- Aeneid Books 7-12, The Minor Poems
+  google: http://books.google.com/books?id=ThoMAAAAIAAJ
+L065:
+  title: 'Plutarch -- Lives III: Pericles and Fabius Maximus. Nicias and Crassus'
+  archive: http://www.archive.org/details/liveswithenglish03plutuoft
+  openlibrary: https://openlibrary.org/books/OL7244841M/Lives.
+L066:
+  title: 'Dio Cassius -- Dio''s Roman History IV: Books 41-45'
+  google: http://books.google.com/books?id=zVFiAAAAMAAJ
+L067:
+  title: 'Greek Anthology I: Book 1: Christian Epigrams. Book 2: Christodorus of Thebes
+    in Egypt. Book 3: The Cyzicene Epigrams. Book 4: The Proems of the Different Anthologies.
+    Book 5: The Amatory Epigrams. Book 6: The Dedicatory Epigrams'
+  google: http://books.google.com/books?id=XFKEAAAAIAAJ
+L068:
+  title: 'Greek Anthology II: Book 7: Sepulchral Epigrams. Book 8: The Epigrams of
+    St. Gregory the Theologian'
+  google: http://books.google.com/books?id=hBQOAAAAYAAJ
+L069:
+  title: Longus -- Daphnis and Chloe. Love Romances and Poetical Fragments. Fragments
+    of the Ninus Romance
+  google: http://books.google.com/books?id=0b2iZ-ry6iYC
+L070:
+  title: 'Theophrastus -- Enquiry into Plants I: Books 1-5'
+  google: http://books.google.com/books?id=OuAW71tsKL0C
+L071:
+  title: Galen -- On the Natural Faculties
+  google: http://books.google.com/books?id=8HTYJ788kTAC
+L072:
+  title: Caesar -- The Gallic War
+  google: http://books.google.com/books?id=Ks0bvIN7DPMC
+L074:
+  title: Boethius -- Theological Tractates and The Consolation of Philosophy
+  google: http://books.google.com/books?id=RmVJAAAAMAAJ
+  archive: http://www.archive.org/details/theologicaltract00boet
+  openlibrary: https://openlibrary.org/books/OL7045345M/The_theological_tractates
+L075:
+  title: 'Seneca -- Ad Lucilium Epistulae Morales I: Letters 1-65'
+  archive: http://www.archive.org/details/adluciliumepistu01sene
+  openlibrary: https://openlibrary.org/books/OL7083511M/Ad_Lucilium_epistulae_morales
+L076:
+  title: 'Seneca -- Ad Lucilium Epistulae Morales II: Letters 66-92'
+  archive: http://www.archive.org/details/adluciliumepistu02sene
+  openlibrary: https://openlibrary.org/books/OL7083511M/Ad_Lucilium_epistulae_morales
+L078N:
+  title: 'Seneca -- Tragedies II: Agamemnon. Thyestes. Hercules Oetaeus. Phoenissae.
+    Octavia'
+  google: http://books.google.com/books?id=4R1SKQsZQaUC
+  archive: http://www.archive.org/details/tragedies00sene
+  openlibrary: https://openlibrary.org/books/OL7044392M/Tragedies
+L079:
+  title: 'Theophrastus -- Enquiry into Plants II: Books 6-9. Treatise on Odours. Concerning
+    Weather Signs'
+  google: http://books.google.com/books?id=SAasfiFvgd0C
+  archive: http://www.archive.org/details/enquiryintoplant02theouoft
+  openlibrary: https://openlibrary.org/books/OL7067959M/Enquiry_into_plants_and_minor_works_on_odours_and_weather_signs_with_an_English_translation_by_Sir_A
+L080:
+  title: 'Plutarch -- Lives IV: Alcibiades and Coriolanus. Lysander and Sulla'
+  google: http://books.google.com/books?id=0SwMAAAAIAAJ
+  archive: http://www.archive.org/details/plutarchslives04plut
+  openlibrary: https://openlibrary.org/books/OL7056271M/Plutarch's_Lives
+L081:
+  title: 'Procopius -- Procopius II: History of the Wars, Books 3-4. (Vandalic War)'
+  google: http://books.google.com/books?id=iNVfAAAAMAAJ
+L082:
+  title: 'Dio Cassius -- Dio''s Roman History V: Books 46-50'
+  archive: http://www.archive.org/details/diosromanhistory05cassuoft
+  openlibrary: https://openlibrary.org/books/OL13578222M/Dio's_Roman_history
+L083:
+  title: 'Dio Cassius -- Dio''s Roman History VI: Books 51-55'
+  archive: http://www.archive.org/details/diosromanhistory06cassuoft
+  openlibrary: https://openlibrary.org/books/OL13578222M/Dio's_Roman_history
+L084:
+  title: 'Greek Anthology III: The Declamatory Epigrams'
+  google: http://books.google.com/books?id=EhwOAAAAYAAJ
+L085:
+  title: 'Greek Anthology IV: Book 10: The Hortatory and Admonitory Epigrams. Book
+    11: The Convivial and Satirical Epigrams. Book 12: Strato''s Musa Puerilis'
+  google: http://books.google.com/books?id=F41fAAAAMAAJ
+L086:
+  title: 'Greek Anthology V: Book 13: Epigrams in Various Metres. Book 14: Arithmetical
+    Problems, Riddles, Oracles. Book 15: Miscellanea. Book 16: Epigrams of the Planudean
+    Anthology Not in the Palatine Manuscript'
+  google: http://books.google.com/books?id=RIxfAAAAMAAJ
+L087:
+  title: 'Plutarch -- Lives V: Agesilaus and Pompey. Pelopidas and Marcellus'
+  google: http://books.google.com/books?id=2GYMAAAAIAAJ
+  archive: http://www.archive.org/details/plutarchslives05plut
+  openlibrary: https://openlibrary.org/books/OL7056271M/Plutarch's_Lives
+L088:
+  title: Xenophon -- Hellenica, Books 1-5
+  google: http://books.google.com/books?id=7w8-5jp2KLwC
+  archive: http://www.archive.org/details/xenophonwithengl01xenouoft
+  openlibrary: https://openlibrary.org/books/OL23362576M/Xenophon_with_an_English_translation_by_Carleton_L._Brownson.
+L089:
+  title: Xenophon -- Hellenica, Books 6 and 7. Anabasis, Books 1-3
+  google: http://books.google.com/books?id=QONotJ9t8o0C
+  archive: http://www.archive.org/details/xenophon05xenogoog
+  openlibrary: https://openlibrary.org/books/OL6612316M/Xenophon_...
+L090:
+  title: Xenophon -- Anabasis, Books 4-7. Symposium and Apology
+  google: http://books.google.com/books?id=vFA8t__AArcC
+  archive: http://www.archive.org/details/xenophon04xenogoog
+  openlibrary: https://openlibrary.org/books/OL6612316M/Xenophon_...
+L091N:
+  title: Juvenal -- Juvenal and Persius
+  archive: http://www.archive.org/details/juvenalpersiuswi00juveuoft
+  openlibrary: https://openlibrary.org/books/OL7122831M/Juvenal_and_Persius.
+L092:
+  title: Clement of Alexandria -- The Exhortation to the Greeks. The Rich Man's Salvation.
+    To the Newly Baptized (fragment)
+  google: http://books.google.com/books?id=KxY6AAAAMAAJ
+  archive: http://www.archive.org/details/clementofalexand00clem
+  openlibrary: https://openlibrary.org/books/OL7047377M/Clement_of_Alexandria
+L093:
+  title: 'Pausanias -- Description of Greece I: Books 1-2 (Attica and Corinth)'
+  google: http://books.google.com/books?id=Yah2efjM-NQC
+  archive: http://www.archive.org/details/pausaniasgreece01pausuoft
+  openlibrary: https://openlibrary.org/books/OL20425909M/Pausanias_Description_of_Greece
+L094:
+  title: 'Martial -- Epigrams I: Spectacles. Books 1-7'
+  google: http://books.google.com/books?id=w4ZfAAAAMAAJ
+  archive: http://www.archive.org/details/martialepigrams01martiala
+  openlibrary: https://openlibrary.org/books/OL7097061M/Martial_epigrams
+L095:
+  title: 'Martial -- Epigrams II: Books 8-14'
+  google: http://books.google.com/books?id=6odfAAAAMAAJ
+  archive: http://www.archive.org/details/martialepigrams02martiala
+  openlibrary: https://openlibrary.org/books/OL7097061M/Martial_epigrams
+L096:
+  title: 'Ausonius -- Ausonius I: Books 1-17'
+  google: http://books.google.com/books?id=-dlfAAAAMAAJ
+  archive: http://www.archive.org/details/deciausonius01ausouoft
+  openlibrary: https://openlibrary.org/books/OL7156662M/Ausonius_with_an_English_translation
+L097N:
+  title: Cicero -- Letters to Atticus III
+  archive: http://www.archive.org/details/letterstoatticuswins03ciceuoft
+  openlibrary: https://openlibrary.org/books/OL23312220M/Letters_to_Atticus
+L098:
+  title: 'Plutarch -- Lives VI: Dion and Brutus. Timoleon and Aemilius Paulus'
+  google: http://books.google.com/books?id=32YMAAAAIAAJ
+  archive: http://www.archive.org/details/plutarchslives06plut
+  openlibrary: https://openlibrary.org/books/OL7056271M/Plutarch's_Lives
+L099:
+  title: 'Plutarch -- Lives VII: Demosthenes and Cicero. Alexander and Caesar'
+  archive: http://www.archive.org/details/plutarchslives07plut
+  openlibrary: https://openlibrary.org/books/OL7056271M/Plutarch's_Lives
+L100:
+  title: 'Plutarch -- Lives VIII: Sertorius and Eumenes. Phocion and Cato the Younger'
+  google: http://books.google.com/books?id=0pMMAAAAIAAJ
+  archive: http://www.archive.org/details/plutarchslives08plut
+  openlibrary: https://openlibrary.org/books/OL7056271M/Plutarch's_Lives
+L101:
+  title: 'Plutarch -- Lives IX: Demetrius and Antony. Pyrrhus and Gaius Marius'
+  google: http://books.google.com/books?id=5GYMAAAAIAAJ
+  archive: http://www.archive.org/details/plutarchslives09plut
+  openlibrary: https://openlibrary.org/books/OL7056271M/Plutarch's_Lives
+L102:
+  title: 'Plutarch -- Lives X: Agis and Cleomenes. Tiberius and Gaius Gracchus. Philopoemen
+    and Flamininus'
+  google: http://books.google.com/books?id=5WYMAAAAIAAJ
+  archive: http://www.archive.org/details/plutarchslives10plut
+  openlibrary: https://openlibrary.org/books/OL7056271M/Plutarch's_Lives
+L103:
+  title: 'Plutarch -- Lives XI: Aratus. Artaxerxes. Galba. Otho. General Index'
+  archive: http://www.archive.org/details/plutarchslives11plut
+  openlibrary: https://openlibrary.org/books/OL7056271M/Plutarch's_Lives
+L104:
+  title: 'Homer -- Odyssey I: Books 1-12'
+  archive: http://www.archive.org/details/odysseyh01homeuoft
+  openlibrary: https://openlibrary.org/books/OL22888317M/The_odyssey
+L105:
+  title: 'Homer -- Odyssey II: Books 13-24'
+  google: http://books.google.com/books?id=_shfAAAAMAAJ
+L106:
+  title: Aeschines -- Speeches
+  google: http://books.google.com/books?id=WzXz-4u6YXoC
+  archive: http://www.archive.org/details/speechesaeschin00adamgoog
+  openlibrary: https://openlibrary.org/books/OL13439232M/The_speeches_of_Aeschines
+L107:
+  title: 'Procopius -- Procopius III: History of the Wars, Books 5-6.15'
+  google: http://books.google.com/books?id=ddZfAAAAMAAJ
+L108:
+  title: 'Thucydides -- History of the Peleponnesian War I: Books 1-2'
+  archive: http://www.archive.org/details/thucydideswithen01thucuoft
+  openlibrary: https://openlibrary.org/books/OL23348482M/Thucydides.
+L109:
+  title: 'Thucydides -- History of the Peleponnesian War II: Books 3-4'
+  google: http://books.google.com/books?id=ZBsMAAAAIAAJ
+L110:
+  title: 'Thucydides -- History of the Peleponnesian War III: Books 5-6'
+  google: http://books.google.com/books?id=pFIMAAAAIAAJ
+L111:
+  title: 'Tacitus -- Histories I: Books 1-3'
+  archive: http://www.archive.org/details/histories01taciuoft
+  openlibrary: https://openlibrary.org/books/OL6688656M/The_Histories
+L112:
+  title: Marcus Cornelius Fronto -- Correspondence of Marcus Cornelius Fronto with
+    Marcus Aurelius Antoninus I
+  google: http://books.google.com/books?id=BsYXAAAAMAAJ
+L113:
+  title: Marcus Cornelius Fronto -- Correspondence of Marcus Cornelius Fronto with
+    Marcus Aurelius Antoninus II
+  google: http://books.google.com/books?id=Ao3YulNSO2EC
+  archive: http://www.archive.org/details/correspondenceof00fron
+  openlibrary: https://openlibrary.org/books/OL7240063M/The_correspondence_of_Marcus_Cornelius_Fronto_with_Marcus_Aurelius_Antoninus_Lucius_Verus_Antoninus_
+L114:
+  title: 'Livy -- Livy I: Books 1-2'
+  archive: http://www.archive.org/details/livy01livy
+  openlibrary: https://openlibrary.org/books/OL7147256M/Livy.
+L115:
+  title: 'Ausonius -- Ausonius II: Poems 18-20. Paulinus Pellaeus: Eucharisticus'
+  google: http://books.google.com/books?id=u6YOlVtvJksC
+  archive: http://www.archive.org/details/ausonius02auso
+  openlibrary: https://openlibrary.org/books/OL7089699M/Ausonius
+L116:
+  title: Sallust -- War with Catiline. War with Jugurtha. Selections from the Histories.
+    Doubtful Works
+  google: http://books.google.com/books?id=7jgxJVKhaREC
+L117:
+  title: 'Herodotus -- Herodotus I: Books 1-2'
+  google: http://books.google.com/books?id=wxsMAAAAIAAJ
+  archive: http://www.archive.org/details/herodotus01hero
+  openlibrary: https://openlibrary.org/books/OL7082213M/Herodotus
+L118:
+  title: 'Herodotus -- Herodotus II: Books 3-4'
+  google: http://books.google.com/books?id=bR0MAAAAIAAJ
+L119:
+  title: 'Herodotus -- Herodotus III: Books 5-7'
+  google: http://books.google.com/books?id=Qh8MAAAAIAAJ
+L120:
+  title: 'Herodotus -- Herodotus IV: Books 8-9'
+  archive: http://www.archive.org/details/herodotus04hero
+  openlibrary: https://openlibrary.org/books/OL16203729M/Herodotus
+L121:
+  title: 'Apollodorus -- The Library I: Books 1-3.9'
+  google: http://books.google.com/books?id=YKUNAAAAIAAJ
+L122:
+  title: 'Apollodorus -- The Library II: Book 3.10-end. Epitome'
+  google: http://books.google.com/books?id=QKMNAAAAIAAJ
+L123:
+  title: Plato -- Theaetetus. Sophist
+  google: http://books.google.com/books?id=f18MAAAAIAAJ
+  archive: http://www.archive.org/details/theaetetusandsop00plat
+  openlibrary: https://openlibrary.org/books/OL25409087M/Theaetetus_and_Sophist
+L124N:
+  title: 'Quintilian -- Quintilian I: Institutio Oratoria Books 1-3'
+  google: http://books.google.com/books?id=EpdfAAAAMAAJ
+  archive: http://www.archive.org/details/institutioorator00quin
+  openlibrary: https://openlibrary.org/books/OL7149233M/The_Institutio_Oratoria_of_Quintilian
+L125N:
+  title: 'Quintilian -- Quintilian II: Institutio Oratoria Books 4-6'
+  google: http://books.google.com/books?id=fpdfAAAAMAAJ
+L126N:
+  title: 'Quintilian -- Quintilian III: Institutio Oratoria Books 7-9'
+  google: http://books.google.com/books?id=AkUFAQAAIAAJ
+L127N:
+  title: 'Quintilian -- Quintilian IV: Institutio Oratoria Books 10-12'
+  google: http://books.google.com/books?id=gJhfAAAAMAAJ
+L128:
+  title: 'Polybius -- Histories I: Books 1-2'
+  google: http://books.google.com/books?id=UaENN3WvxI0C
+  archive: http://www.archive.org/details/historieswitheng01poly
+  openlibrary: https://openlibrary.org/books/OL7027151M/The_histories
+L129:
+  title: Callimachus -- Callimachus and Lycophron. Aratus
+  google: http://books.google.com/books?id=bqVfAAAAMAAJ
+  archive: http://www.archive.org/details/callimachuslycop00calluoft
+  openlibrary: https://openlibrary.org/books/OL7174767M/Callimachus_and_Lycophron
+L130:
+  title: 'Lucian -- Lucian III: The Dead Come to Life or The Fisherman. The Double
+    Indictment or Trials by Jury. On Sacrifices. The Ignorant Book Collector. The
+    Dream or Lucian''s Career. The Parasite. The Lover of Lies. The Judgement of the
+    Goddesses…'
+  google: http://books.google.com/books?id=4RLYi8psjpcC
+  archive: http://www.archive.org/details/lucianhar03luciuoft
+  openlibrary: https://openlibrary.org/books/OL14021111M/Lucian
+L132:
+  title: 'Menander -- Principal Fragments: Arbitrants. Girl from Samos. Girl Who Gets
+    Her Hair Cut Short. Hero. Fragments. Unidentified Comedy'
+  google: http://books.google.com/books?id=nqC7tszyfD8C
+L133:
+  title: 'Livy -- Livy II: Books 3-4'
+  archive: http://www.archive.org/details/livy02livy
+  openlibrary: https://openlibrary.org/books/OL2142031M/Livy_in_fourteen_volumes
+L134:
+  title: 'Philostratus -- Lives of the Sophists. Eunapius: Lives of the Philosophers
+    and Sophists'
+  google: http://books.google.com/books?id=NeYNAQAAIAAJ
+L135:
+  title: Claudian -- Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2.
+    War Against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage
+    of Honorius. Epithalamium of Honorius and Maria. Panegyrics on the Third and Fourth
+    Consulships of Honorius. Paneg
+  google: http://books.google.com/books?id=-xoMAAAAIAAJ
+  archive: http://www.archive.org/details/claudian01clau
+  openlibrary: https://openlibrary.org/books/OL7048235M/Claudian
+L136:
+  title: Claudian -- On Stilicho's Consulship 2-3. Panegyric on the Sixth Consulship
+    of Honorius. The Gothic War. Shorter Poems. Rape of Proserpina
+  google: http://books.google.com/books?id=KBsMAAAAIAAJ
+  archive: http://www.archive.org/details/claudian02clau
+  openlibrary: https://openlibrary.org/books/OL24360031M/Claudian
+L137:
+  title: 'Polybius -- Histories II: Books 3-4'
+  google: http://books.google.com/books?id=NWdiAAAAMAAJ
+  archive: http://www.archive.org/details/historieswitheng02poly
+  openlibrary: https://openlibrary.org/books/OL7027151M/The_histories
+L138:
+  title: 'Polybius -- Histories III: Books 5-8'
+  archive: http://www.archive.org/details/historieswitheng03poly
+  openlibrary: https://openlibrary.org/books/OL7027151M/The_histories
+L139:
+  title: 'Scriptores Historiae Augustae I: Hadrian. Aelius. Antoninus Pius. Marcus
+    Aurelius. L. Verus. Avidius Cassius. Commodus. Pertinax. Didius Julianus. Septimius
+    Severus. Pescennius Niger. Clodius Albinus'
+  google: http://books.google.com/books?id=MhdvmnB7wVYC
+  archive: http://www.archive.org/details/scriptoreshistor01camb
+  openlibrary: https://openlibrary.org/books/OL7121060M/The_Scriptores_historiae_augustae_with_an_English_translation
+L140:
+  title: 'Scriptores Historiae Augustae II: Caracalla. Geta. Opellius Macrinus. Diadumenianus.
+    Elagabalus. Severus Alexander. The Two Maximini. The Three Gordians. Maximus and
+    Balbinus'
+  archive: http://www.archive.org/details/scriptoreshistor02camb
+  openlibrary: https://openlibrary.org/books/OL7121060M/The_Scriptores_historiae_augustae_with_an_English_translation
+L142:
+  title: 'Lyra Graeca I: Terpander. Alcman. Sappho. Alcaeus'
+  archive: http://www.archive.org/details/lyragraecabeing00edmogoog
+  openlibrary: https://openlibrary.org/books/OL6645708M/Lyra_graeca
+L143:
+  title: 'Lyra Graeca II: Stesichorus. Ibycus. Anacreon. Simonides'
+  archive: http://www.archive.org/details/lyragraecabeingr02edmouoft
+  openlibrary: https://openlibrary.org/books/OL17965907M/Lyra_Graeca
+L144:
+  title: 'Lyra Graeca III: Corinna. Bacchylides. Timotheus. The Anonymous Fragments.
+    The Folk Songs. Scolia. An Account of Greek Lyric Poetry'
+  archive: http://www.archive.org/details/lyragraecabeingr03edmouoft
+  openlibrary: https://openlibrary.org/books/OL17965907M/Lyra_Graeca
+L145:
+  title: Aeschylus -- Suppliant Maidens. Persians. Prometheus. Seven Against Thebes
+  google: http://books.google.com/books?id=_1OhrWL4ar8C
+L146:
+  title: Aeschylus -- Agamemnon. Libation-Bearers. Eumenides. Fragments
+  archive: http://www.archive.org/details/aeschyluswitheng02aescuoft
+  openlibrary: https://openlibrary.org/books/OL23269521M/Aeschylus_with_an_English_translation_by_Herbert_Weir_Smyth.
+L147:
+  title: 'Hippocrates -- Hippocrates I: Ancient Medicine. Airs, Waters, Places. Epidemics
+    1 & 3. The Oath. Precepts. Nutriment'
+  archive: http://www.archive.org/details/hippocrates01hippuoft
+  openlibrary: https://openlibrary.org/books/OL13573609M/Hippocrates
+L148:
+  title: 'Hippocrates -- Hippocrates II: Prognostic. Regimen in Acute Diseases. The
+    Sacred Disease. The Art. Breaths. Law. Decorum. Physician (Ch. 1). Dentition'
+  archive: http://www.archive.org/details/hippocrates02hippuoft
+  openlibrary: https://openlibrary.org/books/OL13573609M/Hippocrates
+L149:
+  title: 'Hippocrates -- Hippocrates III: On Wounds in the Head. In the Surgery. On
+    Fractures. On Joints. Mochlicon'
+  archive: http://www.archive.org/details/hippocrates03hippuoft
+  openlibrary: https://openlibrary.org/books/OL13573609M/Hippocrates
+L150:
+  title: 'Hippocrates -- Hippocrates IV: Nature of Man. Regimen in Health. Humours.
+    Aphorisms. Regimen 1-3. Dreams. Heracleitus: On the Universe'
+  archive: http://www.archive.org/details/hippocrates04hippuoft
+  openlibrary: https://openlibrary.org/books/OL13573609M/Hippocrates
+L151:
+  title: Ovid -- Tristia. Ex Ponto
+  archive: http://www.archive.org/details/ovidtristiaexpon011949mbp
+  openlibrary: https://openlibrary.org/books/ia:ovidtristiaexpon011949mbp/Ovid_Tristia_Ex_Ponto
+L152:
+  title: 'Velleius Paterculus -- '
+  archive: http://www.archive.org/details/compendiumofroma00velluoft
+  openlibrary: https://openlibrary.org/books/OL23290027M/Compendium_of_Roman_history.
+L153:
+  title: 'Eusebius -- Ecclesiastical History I: Books 1-5'
+  archive: http://www.archive.org/details/ecclesiasticalhi01euseuoft
+  openlibrary: https://openlibrary.org/books/OL6698080M/The_ecclesiastical_history
+L157:
+  title: 'Julian -- Julian III: Letters. Epigrams. Against the Galilaeans. Fragments'
+  archive: http://www.archive.org/details/workswithenglish03juliuoft
+  openlibrary: https://openlibrary.org/books/OL7026500M/Works.
+L161:
+  title: 'Polybius -- Histories VI: Books 28-39'
+  archive: http://www.archive.org/details/historieswitheng06poly
+  openlibrary: https://openlibrary.org/books/OL24336935M/The_histories_with_an_English_translation_by_W.R._Paton
+L162:
+  title: 'Lucian -- Lucian IV: Anacharsis or Athletics. Menippus or The Descent into
+    Hades. On Funerals. A Professor of Public Speaking. Alexander the False Prophet.
+    Essays in Portraiture. Essays in Portraiture Defended. The Goddesse of Surrye'
+  archive: http://www.archive.org/details/lucianhar04luciuoft
+  openlibrary: https://openlibrary.org/books/OL14021111M/Lucian
+L163:
+  title: 'Plautus -- Plautus III: The Merchant. The Braggart Warrior. The Haunted
+    House. The Persian'
+  archive: http://www.archive.org/details/plautuswithengli03plauuoft
+  openlibrary: https://openlibrary.org/books/OL7694056M/Plautus
+L165:
+  title: Plato -- Laches. Protagoras. Meno. Euthydemus
+  archive: http://www.archive.org/details/platowithenglish04platuoft
+  openlibrary: https://openlibrary.org/books/OL23325808M/Plato_with_an_English_translation.
+L169:
+  title: Thucydides -- http://www.archive.org/details/historyofpelopon04thucuoft
+  archive: http://www.archive.org/details/historyofpelopon04thucuoft
+  openlibrary: https://openlibrary.org/books/OL22153397M/History_of_the_Peloponnesian_war
+L170N:
+  title: 'Homer -- Iliad I: Books 1-12'
+  archive: http://www.archive.org/details/HomersIliadloeb1
+  openlibrary: 
+L174:
+  title: Frontinus -- Stratagems. Aqueducts of Rome
+  archive: http://www.archive.org/details/stratagemsaquedu00fronuoft
+  openlibrary: https://openlibrary.org/books/OL17965979M/The_Stratagems_and_the_Aqueducts_of_Rome_with_an_English_translation
+L175:
+  title: 'Dio Cassius -- Dio''s Roman History VII: Books 56-60'
+  archive: http://www.archive.org/details/diosromanhistory07cassuoft
+  openlibrary: https://openlibrary.org/books/OL13578222M/Dio's_Roman_history
+L176:
+  title: 'Dio Cassius -- Dio''s Roman History VIII: Books 61-70'
+  archive: http://www.archive.org/details/diosromanhistory08cassuoft
+  openlibrary: https://openlibrary.org/books/OL7182591M/Dio's_Roman_history_with_an_English_translation_by_Earnest_Cary_PH.D._on_the_basis_of_the_version_of
+L177:
+  title: 'Dio Cassius -- Dio''s Roman History IX: Books 71-80'
+  archive: http://www.archive.org/details/diosromanhistory09cassuoft
+  openlibrary: https://openlibrary.org/books/OL13578222M/Dio's_Roman_history
+L178:
+  title: 'Aristophanes -- Aristophanes I: Acharnians. Knights. Clouds. Wasps'
+  archive: http://www.archive.org/details/aristophaneswith01arisuoft
+  openlibrary: https://openlibrary.org/books/OL23278781M/Aristophanes
+L183:
+  title: 'Xenophon -- Scripta Minora: Hiero. Agesilaus. Constitution of the Lacedaemonians.
+    Ways and Means. Cavalry Commander. Art of Horsemanship. On Hunting. Constitution
+    of the Athenians'
+  archive: http://www.archive.org/details/scriptaminorawit00xenouoft
+  openlibrary: https://openlibrary.org/books/OL23331600M/Scripta_minora_with_an_English_translation_by_E.C._Marchant
+L185:
+  title: 'Diogenes Laertius -- Lives of Eminent Philosophers II: Books 6-10'
+  archive: http://www.archive.org/details/livesofeminentph02dioguoft
+  openlibrary: https://openlibrary.org/books/OL18074380M/Lives_of_eminent_philosophers
+L186:
+  title: 'Josephus -- Josephus I: The Life. Against Apion'
+  archive: http://www.archive.org/details/josephuswithengl01joseuoft
+  openlibrary: https://openlibrary.org/books/OL19367126M/Josephus
+L187:
+  title: 'Plato -- Laws I: Books 1-6'
+  archive: http://www.archive.org/details/platowithenglish91platuoft
+  openlibrary: https://openlibrary.org/books/OL23325808M/Plato_with_an_English_translation.
+L188:
+  title: 'Pausanias -- Description of Greece II: Books 3-5 (Laconia, Messenia, Elis
+    1)'
+  archive: http://www.archive.org/details/pausaniasgreece02pausuoft
+  openlibrary: https://openlibrary.org/books/OL20425909M/Pausanias_Description_of_Greece
+L189:
+  title: Cicero -- Philippics
+  archive: http://www.archive.org/details/philippics00ciceuoft
+  openlibrary: https://openlibrary.org/books/OL6698082M/Philippics
+L190:
+  title: 'Basil -- Basil I: Letters 1-58'
+  archive: http://www.archive.org/details/letterswithengli01basiuoft
+  openlibrary: https://openlibrary.org/books/OL23312244M/Letters.
+L191:
+  title: 'Livy -- Livy IV: Books 8-10'
+  archive: http://www.archive.org/details/livywithenglisht04livyuoft
+  openlibrary: https://openlibrary.org/books/OL23315794M/Livy
+L192:
+  title: 'Plato -- Laws II: Books 7-12'
+  archive: http://www.archive.org/details/platowithenglish92platuoft
+  openlibrary: https://openlibrary.org/books/OL23325808M/Plato_with_an_English_translation.
+L193:
+  title: Aristotle -- The "Art" of Rhetoric
+  archive: http://www.archive.org/details/artofrhetoric00arisuoft
+  openlibrary: https://openlibrary.org/books/OL23279053M/The_art_of_rhetoric
+L194:
+  title: Horace -- Satires. Epistles. Ars Poetica
+  archive: http://www.archive.org/details/satiresepistlesa00horauoft
+  openlibrary: https://openlibrary.org/books/OL6697866M/Satires_Epistles_and_Ars_poetica
+L201:
+  title: Plato -- Charmides. Alcibiades 1 & 2. Hipparchus. The Lovers. Theages. Minos.
+    Epinomis
+  archive: http://www.archive.org/details/charmidesalcibia00platuoft
+  openlibrary: https://openlibrary.org/books/OL23285861M/Charmides_Alcibiades_1_and_2_Hipparchus_The_lovers_Theages_Minos_Epinomis.
+L203:
+  title: 'Josephus -- Josephus II: The Jewish War Books 1-3'
+  archive: http://www.archive.org/details/josephuswithengl02joseuoft
+  openlibrary: https://openlibrary.org/books/OL19367126M/Josephus
+L205N:
+  title: 'Cicero -- Letters to His Friends I: Books 1-6'
+  archive: http://www.archive.org/details/letterstohisfrie01ciceuoft
+  openlibrary: https://openlibrary.org/books/OL13443897M/The_letters_to_his_friends
+L206N:
+  title: 'Statius -- Statius I: Silvae. Thebaid, Books 1-4'
+  archive: http://www.archive.org/details/statiusstat01statuoft
+  openlibrary: https://openlibrary.org/books/OL23340702M/Statius
+L207N:
+  title: 'Statius -- Statius II: Thebaid, Books 5-12. Achilleid'
+  archive: http://www.archive.org/details/statiuswithengli02statuoft
+  openlibrary: https://openlibrary.org/books/OL20425012M/Statius
+L210:
+  title: 'Josephus -- Josephus III: The Jewish War Books 4-7'
+  archive: http://www.archive.org/details/josephuswithengl03joseuoft
+  openlibrary: https://openlibrary.org/books/OL19367126M/Josephus
+L211:
+  title: 'Strabo -- Geography V: Books 10-12'
+  archive: http://www.archive.org/details/geographyofstrab05strauoft
+  openlibrary: https://openlibrary.org/books/OL23301297M/The_geography_of_Strabo.
+L214:
+  title: 'Seneca -- Moral Essays I: De Providentia. De Constantia. De Ira. De Clementia'
+  archive: http://www.archive.org/details/moralessayswithe01seneuoft
+  openlibrary: https://openlibrary.org/books/OL23320585M/Moral_essays.
+L215:
+  title: 'Basil -- Basil II: Letters 59-185'
+  archive: http://www.archive.org/details/letterswithengli02basiuoft
+  openlibrary: https://openlibrary.org/books/OL23312244M/Letters.
+L216N:
+  title: 'Cicero -- Letters to His Friends II: Books 7-12'
+  archive: http://www.archive.org/details/letterstohisfrie02ciceuoft
+  openlibrary: https://openlibrary.org/books/OL13443897M/The_letters_to_his_friends
+L219:
+  title: Oppian -- Oppian. Colluthus. Tryphiodorus
+  archive: http://www.archive.org/details/oppiancolluthust00oppiuoft
+  openlibrary: https://openlibrary.org/books/OL23323675M/Oppian_Colluthus_Tryphiodorus_with_an_English_translation_by_A.W._Mair
+L220:
+  title: Lucan -- The Civil War (Pharsalia)
+  archive: http://www.archive.org/details/lucancivilwarboo00lucauoft
+  openlibrary: https://openlibrary.org/books/OL23316463M/Lucan
+L223:
+  title: 'Strabo -- Geography VI: Books 13-14'
+  archive: http://www.archive.org/details/geographyofstrab06strauoft
+  openlibrary: https://openlibrary.org/books/OL7208088M/The_geography_of_Strabo.
+L225N:
+  title: Theophrastus -- Characters of Theophrastus
+  archive: http://www.archive.org/details/charactersofthe00theouoft
+  openlibrary: https://openlibrary.org/books/OL20424848M/The_Characters_of_Theophrastus_newly_edited_and_translated_by_J.M._Edmonds
+L229:
+  title: 'Isocrates -- Isocrates II: On the Peace. Areopagiticus. Against the Sophists.
+    Antidosis. Panathenaicus'
+  archive: http://www.archive.org/details/isocrateswitheng02isocuoft
+  openlibrary: https://openlibrary.org/books/OL23307053M/Isocrates_with_an_English_translation_by_George_Norlin_..._in_three_volumes.
+L230N:
+  title: 'Cicero -- Letters to His Friends III: Books 13-16. To His Brother Quintus.
+    To Brutus'
+  archive: http://www.archive.org/details/letterstohisfrie03ciceuoft
+  openlibrary: https://openlibrary.org/books/OL13443897M/The_letters_to_his_friends
+L236:
+  title: Arrian -- Anabasis Alexandri, Books 1-4
+  archive: http://www.archive.org/details/arrianar01arriuoft
+  openlibrary: https://openlibrary.org/books/OL13578219M/Arrian
+L237:
+  title: 'Plato -- Republic I: Books 1-5'
+  archive: http://www.archive.org/details/republicshorey01platuoft
+  openlibrary: https://openlibrary.org/books/OL20425902M/The_Republic
+L239:
+  title: Augustine -- Select Letters
+  archive: http://www.archive.org/details/selectletters00auguuoft
+  openlibrary: https://openlibrary.org/books/OL17965358M/Select_letters
+L241:
+  title: 'Strabo -- Geography VII: Books 15-16'
+  archive: http://www.archive.org/details/geographyofstrab07strauoft
+  openlibrary: https://openlibrary.org/books/OL7068592M/The_geography_of_Strabo.
+L242:
+  title: 'Josephus -- Josephus IV: Jewish Antiquities Books 1-4'
+  archive: http://www.archive.org/details/josephuswithengl04joseuoft
+  openlibrary: https://openlibrary.org/books/OL19367126M/Josephus
+L244:
+  title: Lysias -- Lysias
+  archive: http://www.archive.org/details/lysiaslamb00lysiuoft
+  openlibrary: https://openlibrary.org/books/OL6764075M/Lysias
+L246:
+  title: 'Bede -- Opera Historica I: Books 1-3'
+  archive: http://www.archive.org/details/operahistorica01bedeuoft
+  openlibrary: https://openlibrary.org/books/OL13578342M/Baedae_Opera_historica
+L248:
+  title: 'Bede -- Opera Historica II: Books 4-5. Lives of the Abbots. Letter to Egbert'
+  archive: http://www.archive.org/details/operahistoric02bedeuoft
+  openlibrary: https://openlibrary.org/books/OL13578342M/Baedae_Opera_historica
+L249:
+  title: 'Tacitus -- Histories II: 4-5. Annals 1-3'
+  archive: http://www.archive.org/details/histories02taciuoft
+  openlibrary: https://openlibrary.org/books/OL6688656M/The_Histories
+L250:
+  title: Tertullian -- Apology and De Spectaculis. Octavius
+  archive: http://www.archive.org/details/apologydespectac00tertuoft
+  openlibrary: https://openlibrary.org/books/OL23278382M/Apology.
+L253:
+  title: Ovid -- Fasti
+  archive: http://www.archive.org/details/ovidsfasti00oviduoft
+  openlibrary: https://openlibrary.org/books/OL6769845M/Ovid's_Fasti
+L256:
+  title: 'Philostratus the Elder -- Imagines. Callistatus: Descriptions'
+  archive: http://www.archive.org/details/imagines00philuoft
+  openlibrary: https://openlibrary.org/books/OL23306032M/Imagines
+L260:
+  title: 'Plautus -- Plautus IV: The Little Carthaginian. Pseudolus. The Rope'
+  archive: http://www.archive.org/details/plautuswithengli04plauuoft
+  openlibrary: https://openlibrary.org/books/OL19636519M/Plautus_with_an_English_translation_by_Paul_Nixon.
+L262:
+  title: Jerome -- Select Letters
+  archive: http://www.archive.org/details/selectlettersofs00jerouoft
+  openlibrary: https://openlibrary.org/books/OL13578391M/Select_letters_of_St._Jerome
+L263:
+  title: 'Scriptores Historiae Augustae III: The Two Valerians. The Two Gallieni.
+    The Thirty Pretenders. The Deified Claudius. The Deified Aurelian. Tacitus. Probus.
+    Firmus, Saturninus, Proculus and Bonosus. Carus, Carinus and Numerian'
+  google: http://books.google.com/books?id=teHTdGpmuJIC
+  archive: http://www.archive.org/details/scriptoreshistor03camb
+  openlibrary: https://openlibrary.org/books/OL7121060M/The_Scriptores_historiae_augustae_with_an_English_translation
+L264:
+  title: Aristotle -- Politics
+  archive: http://www.archive.org/details/politicsrackh00arisuoft
+  openlibrary: https://openlibrary.org/books/OL20423944M/Politics
+L265:
+  title: 'Eusebius -- Ecclesiastical History II: Books 6-10'
+  archive: http://www.archive.org/details/ecclesiasticalhi02euseuoft
+  openlibrary: https://openlibrary.org/books/OL6698080M/The_ecclesiastical_history
+L267:
+  title: 'Strabo -- Geography VIII: Book 17 and General Index'
+  archive: http://www.archive.org/details/geographyofstrab08strauoft
+  openlibrary: https://openlibrary.org/books/OL23301297M/The_geography_of_Strabo.
+L268:
+  title: Cicero -- De Natura Deorum. Academica
+  archive: http://www.archive.org/details/denaturadeorumac00ciceuoft
+  openlibrary: https://openlibrary.org/books/OL17965347M/De_natura_deorum
+L270:
+  title: 'Basil -- Basil IV: Letters 249-368. Address to Young Men on Greek Literature'
+  archive: http://www.archive.org/details/letterswithengli04basiuoft
+  openlibrary: https://openlibrary.org/books/OL23312244M/Letters.
+L276:
+  title: 'Plato -- Republic II: Books 6-10'
+  archive: http://www.archive.org/details/republicshorey02platuoft
+  openlibrary: https://openlibrary.org/books/OL20425902M/The_Republic
+L281:
+  title: 'Josephus -- Josephus V: Jewish Antiquities Books 5-8'
+  archive: http://www.archive.org/details/josephuswithengl05joseuoft
+  openlibrary: https://openlibrary.org/books/OL19367126M/Josephus
+L284:
+  title: Minor Latin Poets -- Minor Latin Poets
+  archive: http://www.archive.org/details/minorlatinpoetsw00duffuoft
+  openlibrary: https://openlibrary.org/books/OL23319657M/Minor_Latin_poets
+L285:
+  title: Aristotle -- Athenian Constitution. Eudemian Ethics. Virtues and Vices
+  archive: http://www.archive.org/details/athenianconstitu00arisuoft
+  openlibrary: https://openlibrary.org/books/OL18074182M/The_Athenian_Constitution_The_Eudemian_ethics_On_virtues_and_vices
+L300:
+  title: 'Ammianus Marcellinus -- Roman History I: Books 14-19'
+  archive: http://www.archive.org/details/ammianusmarcelli01ammiuoft
+  openlibrary: https://openlibrary.org/books/OL23276078M/Ammianus_Marcellinus_with_an_English_translation_by_John_C._Rolfe.
+L302:
+  title: 'Lucian -- Lucian V: The Passing of Peregrinus. The Runaways. Toxaris or
+    Friendship. The Dance. Lexiphanes. The Eunuch. Astrology. The Mistaken Critic.
+    The Parliament of the Gods. The Tyrannicide. Disowned'
+  archive: http://www.archive.org/details/lucianhar05luciuoft
+  openlibrary: https://openlibrary.org/books/OL14021111M/Lucian
+L303:
+  title: 'Diodorus Siculus -- Diodorus Siculus II: Books 2.35-4.58'
+  archive: http://www.archive.org/details/diodorusofsicily02dioduoft
+  openlibrary: https://openlibrary.org/books/OL23295480M/Diodorus_of_Sicily_with_an_English_translation_by_C.H._Oldfather_and_others
+L304:
+  title: 'Celsus -- De Medicina II: Books 5-6'
+  archive: http://www.archive.org/details/demedicina02celsuoft
+  openlibrary: https://openlibrary.org/books/OL14104464M/De_medicina
+L305:
+  title: 'Plutarch -- Moralia IV: Roman Questions. Greek Questions. Greek and Roman Parallel Stories. On the Fortune of the Romans. On the Fortune or the Virtue of Alexander. Were the Athenians More Famous in War or in Wisdom?'
+  archive: http://www.archive.org/details/moraliainfifteen04plutuoft
+  openlibrary: https://openlibrary.org/books/OL23320586M/Moralia_in_fifteen_volumes_with_an_English_translation_by_Frank_Cole_Babbitt.
+L307:
+  title: Aristotle -- Minor Works
+  archive: http://www.archive.org/details/minorworks00arisuoft
+  openlibrary: https://openlibrary.org/books/OL6341513M/Minor_works_...
+L313:
+  title: 'Livy -- Livy XI: Books 38-39'
+  archive: http://www.archive.org/details/livywithenglisht11livyuoft
+  openlibrary: https://openlibrary.org/books/OL23315794M/Livy
+L317:
+  title: 'Aristotle -- Problems II: Books 22-38'
+  archive: http://www.archive.org/details/problems02arisuoft
+  openlibrary: https://openlibrary.org/books/OL20423937M/Problems.
+L321:
+  title: 'Plutarch -- Moralia X: Love Stories. That a Philosopher Ought to Converse Especially With Men in Power. To an Uneducated Ruler. Whether an Old Man Should Engage in Public Affairs. Precepts of Statecraft. On Monarchy, Democracy, and Oligarchy'
+  archive: http://www.archive.org/details/moraliainfifteen10plutuoft
+  openlibrary: https://openlibrary.org/books/OL23320586M/Moralia_in_fifteen_volumes_with_an_English_translation_by_Frank_Cole_Babbitt.
+L323:
+  title: Aristotle -- Parts of Animals. Movement of Animals. Progression of Animals
+  archive: http://www.archive.org/details/partsofanimals00aris
+  openlibrary: https://openlibrary.org/books/OL20424698M/Parts_of_animals
+L326:
+  title: 'Josephus -- Josephus VI: Jewish Antiquities Books 9-11'
+  archive: http://www.archive.org/details/josephuswithengl06joseuoft
+  openlibrary: https://openlibrary.org/books/OL19367126M/Josephus
+L328:
+  title: 'Plautus -- Plautus V: Stichus. Trinummus (Three Bob Day). Truculentus. The
+    Tale of a Travelling Bag. Fragments'
+  archive: http://www.archive.org/details/plautuswithengli05plauuoft
+  openlibrary: https://openlibrary.org/books/OL7694056M/Plautus
+L330:
+  title: 'Pliny -- Natural History I: Books 1-2'
+  archive: http://www.archive.org/details/naturalhistory01plinuoft
+  openlibrary: https://openlibrary.org/books/OL23321225M/Natural_history
+L333:
+  title: 'Varro -- On the Latin Language I: Books 5-7'
+  archive: http://www.archive.org/details/onlatinlanguage01varruoft
+  openlibrary: https://openlibrary.org/books/OL6373636M/On_the_Latin_language
+L334:
+  title: 'Varro -- On the Latin Language II: Books 8-10. Fragments'
+  archive: http://www.archive.org/details/onlatinlanguage02varruoft
+  openlibrary: https://openlibrary.org/books/OL6373636M/On_the_Latin_language
+L336:
+  title: 'Celsus -- De Medicina III: Books 7-8'
+  archive: http://www.archive.org/details/demedicina03celsuoft
+  openlibrary: https://openlibrary.org/books/OL14104464M/De_medicina
+L337:
+  title: 'Plutarch -- Moralia VI: Can Virtue Be Taught? On Moral Virtue. On the Control of Anger. On Tranquility of Mind. On Brotherly Love. On Affection for Offspring. Whether Vice Be Sufficient to Cause Unhappiness…'
+  archive: http://www.archive.org/details/moraliainfifteen06plutuoft
+  openlibrary: https://openlibrary.org/books/OL23320586M/Moralia_in_fifteen_volumes_with_an_English_translation_by_Frank_Cole_Babbitt.
+L350:
+  title: Manetho -- History of Egypt and Other Works
+  archive: http://www.archive.org/details/manethowithengli00maneuoft
+  openlibrary: https://openlibrary.org/books/OL23317152M/Manetho_with_an_English_translation_by_W.G._Waddell
+L352:
+  title: 'Pliny -- Natural History II: Books 3-7'
+  archive: http://www.archive.org/details/naturalhistory02plinuoft
+  openlibrary: https://openlibrary.org/books/OL23321225M/Natural_history
+L353:
+  title: 'Pliny -- Natural History III: Books 8-11'
+  archive: http://www.archive.org/details/plinynaturalhist005560mbp
+  openlibrary: https://openlibrary.org/books/ia:plinynaturalhist005560mbp/Pliny_Natural_History_Volume_III
+L355:
+  title: 'Livy -- Livy VI: Books 23-25'
+  archive: http://www.archive.org/details/livywithenglisht06livyuoft
+  openlibrary: https://openlibrary.org/books/OL23315794M/Livy
+L358:
+  title: 'Dio Chrysostom -- Dio Chrysostom III: Discourses 31-36'
+  archive: http://www.archive.org/details/diochrysostomwit03diocuoft
+  openlibrary: https://openlibrary.org/books/OL18074687M/Dio_Chrysostom_with_an_English_translation_by_J.W._Cohoon
+L360:
+  title: Greek Literary Papyri I
+  archive: http://www.archive.org/details/greekliterarypap01pageuoft
+  openlibrary: https://openlibrary.org/books/OL20425919M/Greek_literary_papyri
+L365:
+  title: 'Josephus -- Josephus VII: Jewish Antiquities Books 12-14'
+  archive: http://www.archive.org/details/josephuswithengl07joseuoft
+  openlibrary: https://openlibrary.org/books/OL19367126M/Josephus
+L367:
+  title: 'Livy -- Livy VII: Books 26-27'
+  archive: http://www.archive.org/details/livywithenglisht07livyuoft
+  openlibrary: https://openlibrary.org/books/OL23315794M/Livy
+L370:
+  title: 'Pliny -- Natural History IV: Books 12-16'
+  archive: http://www.archive.org/details/naturalhistory04plinuoft
+  openlibrary: https://openlibrary.org/books/OL23321225M/Natural_history
+L371:
+  title: 'Pliny -- Natural History V: Books 17-19'
+  archive: http://www.archive.org/details/naturalhistory05plinuoft
+  openlibrary: https://openlibrary.org/books/OL23321225M/Natural_history
+L373:
+  title: 'Isocrates -- Isocrates III: Evagoras. Helen. Busiris. Plataicus. Concerning
+    the Team of Horses. Trapeziticus. Against Callimachus. Aegineticus. Against Lochites.
+    Against Euthynus. Letters'
+  archive: http://www.archive.org/details/isocrateswitheng03isocuoft
+  openlibrary: https://openlibrary.org/books/OL23307053M/Isocrates_with_an_English_translation_by_George_Norlin_..._in_three_volumes.
+L374:
+  title: 'Demosthenes -- Demosthenes VII: Funeral Speech (60). Erotic Essay (61).
+    Exordia. Letters'
+  archive: http://www.archive.org/details/funeralspeechero00demouoft
+  openlibrary: https://openlibrary.org/books/OL18074136M/Funeral_speech_Erotic_essay_60_61_Exordia_and_Letters_with_an_English_translation_by_Norman_W._DeWit
+L376:
+  title: 'Dio Chrysostom -- Dio Chrysostom IV: Discourses 37-60'
+  archive: http://www.archive.org/details/diochrysostomwit04diocuoft
+  openlibrary: https://openlibrary.org/books/OL18074687M/Dio_Chrysostom_with_an_English_translation_by_J.W._Cohoon
+L381:
+  title: 'Livy -- Livy VIII: Books 28-30'
+  archive: http://www.archive.org/details/livywithenglisht08livyuoft
+  openlibrary: https://openlibrary.org/books/OL23315794M/Livy
+L385:
+  title: 'Dio Chrysostom -- Dio Chrysostom V: Discourses 61-80. Fragments. Letters'
+  archive: http://www.archive.org/details/diochrysostomwit05diocuoft
+  openlibrary: https://openlibrary.org/books/OL18074687M/Dio_Chrysostom_with_an_English_translation_by_J.W._Cohoon
+L387:
+  title: 'Prudentius -- Prudentius I: Liber Cathemerinon. Apotheosis. Hamartingenia.
+    Psychomachia. Contra Orationem Symmachi, Liber I'
+  archive: http://www.archive.org/details/prudentiuswithen01pruduoft
+  openlibrary: https://openlibrary.org/books/OL23327900M/Prudentius_with_an_English_translation_by_H.J._Thomson.
+L392:
+  title: 'Pliny -- Natural History VI: Books 20-23'
+  archive: http://www.archive.org/details/plinynaturalhist001816mbp
+  openlibrary: https://openlibrary.org/books/ia:plinynaturalhist001816mbp/Pliny_Natural_History_Vol_VI
+L393:
+  title: 'Pliny -- Natural History VII: Books 24-27. Index of Plants'
+  archive: http://www.archive.org/details/naturalhistory07plinuoft
+  openlibrary: https://openlibrary.org/books/OL23321225M/Natural_history
+L394:
+  title: 'Pliny -- Natural History IX: Books 33-35'
+  archive: http://www.archive.org/details/naturalhistory09plinuoft
+  openlibrary: https://openlibrary.org/books/OL23321225M/Natural_history
+L396:
+  title: 'Livy -- Livy XIII: Books 43-45'
+  archive: http://www.archive.org/details/livywithenglisht13livyuoft
+  openlibrary: https://openlibrary.org/books/OL23315794M/Livy
+L400:
+  title: Aristotle -- On Sophistical Refutations. On Coming-to-be and Passing Away.
+    On the Cosmos
+  archive: http://www.archive.org/details/onsophisticalref00arisuoft
+  openlibrary: https://openlibrary.org/books/OL17966022M/On_sophistical_refutations_and_On_coming-to-be_and_passing_away_translated_by_E.S._Forster.
+L406:
+  title: 'Plutarch -- Moralia XII: Concerning the Face Which Appears in the Orb of the Moon. On the Principle of Cold. Whether Fire or Water Is More Useful. Whether Land or Sea Animals Are Cleverer. Beasts Are Rational. On the Eating of Flesh'
+  archive: http://www.archive.org/details/moraliainfifteen12plutuoft
+  openlibrary: https://openlibrary.org/books/OL23320586M/Moralia_in_fifteen_volumes_with_an_English_translation_by_Frank_Cole_Babbitt.
+L430:
+  title: 'Lucian -- Lucian VI: How to Write History. The Dipsads. Saturnalia. Herodotus
+    or Aetion. Zeuxis or Antiochus. A Slip of the Tongue in Greeting. Apology for
+    the "Salaried Posts in Great Houses." Harmonides. A Conversation with Hesiod…'
+  archive: http://www.archive.org/details/luciankilb06luciuoft
+  openlibrary: https://openlibrary.org/books/OL14021111M/Lucian
+L431:
+  title: 'Lucian -- Lucian VII: Dialogues of the Dead. Dialogues of the Sea-Gods.
+    Dialogues of the Gods. Dialogues of the Courtesans'
+  archive: http://www.archive.org/details/lucianmac07luciuoft
+  openlibrary: https://openlibrary.org/books/OL14021111M/Lucian
+L496:
+  title: Hesiod, the Homeric Hymns, and Homerica
+  google: http://books.google.com/books?id=cotA1ZFPrTgC
+  archive: http://www.archive.org/details/hesiodhomerichym00hesiuoft
+  openlibrary: https://openlibrary.org/books/OL7066534M/Hesiod_the_Homeric_hymns_and_Homerica

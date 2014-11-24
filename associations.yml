@@ -119,7 +119,7 @@ L026:
 L027:
   title: 'Augustine -- Confessions II: Books 9-13'
   archive: http://www.archive.org/details/staugustinesconf02augu
-  openlibrary: https://openlibrary.org/books/OL23340761M/St._Augustine's_Confessions
+  openlibrary: https://openlibrary.org/books/OL7693826M/Confessions_Vol._1
 L028:
   title: Greek Bucolic Poets
   google: http://books.google.com/books?id=IMrCpKxmgCUC
@@ -548,6 +548,10 @@ L130:
   google: http://books.google.com/books?id=4RLYi8psjpcC
   archive: http://www.archive.org/details/lucianhar03luciuoft
   openlibrary: https://openlibrary.org/books/OL14021111M/Lucian
+L131:
+  title: Epictetus -- Discourses, Books 1-2
+  archive: http://www.archive.org/details/epictetusthedisc010837mbp
+  openlibrary: https://openlibrary.org/books/ia:epictetusthedisc010837mbp/Epictetus_The_Discourses_As_Reported_Volume_I
 L132:
   title: 'Menander -- Principal Fragments: Arbitrants. Girl from Samos. Girl Who Gets
     Her Hair Cut Short. Hero. Fragments. Unidentified Comedy'
@@ -721,7 +725,7 @@ L188:
   title: 'Pausanias -- Description of Greece II: Books 3-5 (Laconia, Messenia, Elis
     1)'
   archive: http://www.archive.org/details/pausaniasgreece02pausuoft
-  openlibrary: https://openlibrary.org/books/OL20425909M/Pausanias_Description_of_Greece
+  openlibrary: https://openlibrary.org/books/OL7693986M/Pausanias
 L189:
   title: Cicero -- Philippics
   archive: http://www.archive.org/details/philippics00ciceuoft
@@ -787,6 +791,10 @@ L216N:
   title: 'Cicero -- Letters to His Friends II: Books 7-12'
   archive: http://www.archive.org/details/letterstohisfrie02ciceuoft
   openlibrary: https://openlibrary.org/books/OL13443897M/The_letters_to_his_friends
+L218:
+  title: Epictetus -- Discourses, Books 3-4. Fragments. The Encheiridion
+  archive: http://www.archive.org/details/epictetusthedisc010384mbp
+  openlibrary: https://openlibrary.org/books/ia:epictetusthedisc010384mbp/Epictetus_The_Discourses_As_Reported_Vol_II
 L219:
   title: Oppian -- Oppian. Colluthus. Tryphiodorus
   archive: http://www.archive.org/details/oppiancolluthust00oppiuoft
@@ -795,6 +803,10 @@ L220:
   title: Lucan -- The Civil War (Pharsalia)
   archive: http://www.archive.org/details/lucancivilwarboo00lucauoft
   openlibrary: https://openlibrary.org/books/OL23316463M/Lucan
+L222:
+  title: 'Plutarch -- Moralia II: How to Profit by One''s Enemies. On Having Many Friends. Chance. Virtue and Vice. Letter of Condolence to Apollonius. Advice About Keeping Well. Advice to Bride and Groom. The Dinner of the Seven Wise Men. Superstition'
+  archive: http://www.archive.org/details/moraliainfifteen02plutuoft
+  openlibrary: https://openlibrary.org/books/OL23320586M/Moralia_in_fifteen_volumes_with_an_English_translation_by_Frank_Cole_Babbitt.
 L223:
   title: 'Strabo -- Geography VI: Books 13-14'
   archive: http://www.archive.org/details/geographyofstrab06strauoft
@@ -803,6 +815,8 @@ L225N:
   title: Theophrastus -- Characters of Theophrastus
   archive: http://www.archive.org/details/charactersofthe00theouoft
   openlibrary: https://openlibrary.org/books/OL20424848M/The_Characters_of_Theophrastus_newly_edited_and_translated_by_J.M._Edmonds
+L226:
+  title: 'Philo -- Volume I: On the Creation. Allegorical Interpretation of Genesis 2 and 3'
 L229:
   title: 'Isocrates -- Isocrates II: On the Peace. Areopagiticus. Against the Sophists.
     Antidosis. Panathenaicus'
@@ -837,10 +851,16 @@ L244:
   title: Lysias -- Lysias
   archive: http://www.archive.org/details/lysiaslamb00lysiuoft
   openlibrary: https://openlibrary.org/books/OL6764075M/Lysias
+L245:
+  title: 'Plutarch -- Moralia III: Sayings of Kings and Commanders. Sayings of Romans. Sayings of Spartans. The Ancient Customs of the Spartans. Sayings of Spartan Women. Bravery of Women'
+  archive: http://www.archive.org/details/moraliainfifteen03plutuoft
+  openlibrary: https://openlibrary.org/books/OL23320586M/Moralia_in_fifteen_volumes_with_an_English_translation_by_Frank_Cole_Babbitt.
 L246:
   title: 'Bede -- Opera Historica I: Books 1-3'
   archive: http://www.archive.org/details/operahistorica01bedeuoft
   openlibrary: https://openlibrary.org/books/OL13578342M/Baedae_Opera_historica
+L247:
+  title: 'Philo -- Volume III: On the Unchangeableness of God. On Husbandry. Concerning Noah''s Work As a Planter. On Drunkenness. On Sobriety'
 L248:
   title: 'Bede -- Opera Historica II: Books 4-5. Lives of the Abbots. Letter to Egbert'
   archive: http://www.archive.org/details/operahistoric02bedeuoft
@@ -865,6 +885,8 @@ L260:
   title: 'Plautus -- Plautus IV: The Little Carthaginian. Pseudolus. The Rope'
   archive: http://www.archive.org/details/plautuswithengli04plauuoft
   openlibrary: https://openlibrary.org/books/OL19636519M/Plautus_with_an_English_translation_by_Paul_Nixon.
+L261:
+  title: 'Philo -- Volume IV: On the Confusion of Tongues. On the Migration of Abraham. Who Is the Heir of Divine Things? On Mating with the Preliminary Studies'
 L262:
   title: Jerome -- Select Letters
   archive: http://www.archive.org/details/selectlettersofs00jerouoft
@@ -896,6 +918,8 @@ L270:
   title: 'Basil -- Basil IV: Letters 249-368. Address to Young Men on Greek Literature'
   archive: http://www.archive.org/details/letterswithengli04basiuoft
   openlibrary: https://openlibrary.org/books/OL23312244M/Letters.
+L275:
+  title: 'Philo -- Volume V: On Flight and Finding. On the Change of Names. On Dreams'
 L276:
   title: 'Plato -- Republic II: Books 6-10'
   archive: http://www.archive.org/details/republicshorey02platuoft
@@ -912,6 +936,8 @@ L285:
   title: Aristotle -- Athenian Constitution. Eudemian Ethics. Virtues and Vices
   archive: http://www.archive.org/details/athenianconstitu00arisuoft
   openlibrary: https://openlibrary.org/books/OL18074182M/The_Athenian_Constitution_The_Eudemian_ethics_On_virtues_and_vices
+L289:
+  title: 'Philo -- Volume VI: On Abraham. On Joseph. On Moses'
 L300:
   title: 'Ammianus Marcellinus -- Roman History I: Books 14-19'
   archive: http://www.archive.org/details/ammianusmarcelli01ammiuoft
@@ -934,6 +960,8 @@ L305:
   title: 'Plutarch -- Moralia IV: Roman Questions. Greek Questions. Greek and Roman Parallel Stories. On the Fortune of the Romans. On the Fortune or the Virtue of Alexander. Were the Athenians More Famous in War or in Wisdom?'
   archive: http://www.archive.org/details/moraliainfifteen04plutuoft
   openlibrary: https://openlibrary.org/books/OL23320586M/Moralia_in_fifteen_volumes_with_an_English_translation_by_Frank_Cole_Babbitt.
+L306:
+  title: 'Plutarch -- Moralia V: Isis and Osiris. The E at Delphi. The Oracles at Delphi No Longer Given in Verse. The Obsolescence of Oracles'
 L307:
   title: Aristotle -- Minor Works
   archive: http://www.archive.org/details/minorworks00arisuoft
@@ -946,6 +974,8 @@ L317:
   title: 'Aristotle -- Problems II: Books 22-38'
   archive: http://www.archive.org/details/problems02arisuoft
   openlibrary: https://openlibrary.org/books/OL20423937M/Problems.
+L320:
+  title: 'Philo -- Volume VII: On the Decalogue. On the Special Laws, Books 1-3'
 L321:
   title: 'Plutarch -- Moralia X: Love Stories. That a Philosopher Ought to Converse Especially With Men in Power. To an Uneducated Ruler. Whether an Old Man Should Engage in Public Affairs. Precepts of Statecraft. On Monarchy, Democracy, and Oligarchy'
   archive: http://www.archive.org/details/moraliainfifteen10plutuoft
@@ -983,6 +1013,8 @@ L337:
   title: 'Plutarch -- Moralia VI: Can Virtue Be Taught? On Moral Virtue. On the Control of Anger. On Tranquility of Mind. On Brotherly Love. On Affection for Offspring. Whether Vice Be Sufficient to Cause Unhappiness…'
   archive: http://www.archive.org/details/moraliainfifteen06plutuoft
   openlibrary: https://openlibrary.org/books/OL23320586M/Moralia_in_fifteen_volumes_with_an_English_translation_by_Frank_Cole_Babbitt.
+L341:
+  title: 'Philo -- Volume VIII: On the Special Laws, Book 4. On the Virtues. On Rewards and Punishments'
 L350:
   title: Manetho -- History of Egypt and Other Works
   archive: http://www.archive.org/details/manethowithengli00maneuoft
@@ -1007,6 +1039,8 @@ L360:
   title: Greek Literary Papyri I
   archive: http://www.archive.org/details/greekliterarypap01pageuoft
   openlibrary: https://openlibrary.org/books/OL20425919M/Greek_literary_papyri
+L363:
+  title: 'Philo -- Volume IX: Every Good Man is Free. On the Contemplative Life. On the Eternity of the World. Against Flaccus. Apology for the Jews. On Providence'
 L365:
   title: 'Josephus -- Josephus VII: Jewish Antiquities Books 12-14'
   archive: http://www.archive.org/details/josephuswithengl07joseuoft
@@ -1038,6 +1072,10 @@ L376:
   title: 'Dio Chrysostom -- Dio Chrysostom IV: Discourses 37-60'
   archive: http://www.archive.org/details/diochrysostomwit04diocuoft
   openlibrary: https://openlibrary.org/books/OL18074687M/Dio_Chrysostom_with_an_English_translation_by_J.W._Cohoon
+L379:
+  title: 'Philo -- Volume X: On the Embassy to Gaius. General Indexes'
+L380:
+  title: 'Philo -- Volume Supplement I: Questions and Answers on Genesis'
 L381:
   title: 'Livy -- Livy VIII: Books 28-30'
   archive: http://www.archive.org/details/livywithenglisht08livyuoft
@@ -1072,6 +1110,8 @@ L400:
     On the Cosmos
   archive: http://www.archive.org/details/onsophisticalref00arisuoft
   openlibrary: https://openlibrary.org/books/OL17966022M/On_sophistical_refutations_and_On_coming-to-be_and_passing_away_translated_by_E.S._Forster.
+L401:
+  title: 'Philo -- Volume Supplement II: Questions and Answers on Exodus'
 L406:
   title: 'Plutarch -- Moralia XII: Concerning the Face Which Appears in the Orb of the Moon. On the Principle of Cold. Whether Fire or Water Is More Useful. Whether Land or Sea Animals Are Cleverer. Beasts Are Rational. On the Eating of Flesh'
   archive: http://www.archive.org/details/moraliainfifteen12plutuoft

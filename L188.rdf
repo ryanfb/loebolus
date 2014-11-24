@@ -3,7 +3,7 @@
   <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L188.rdf">
     <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
     <ns0:relation rdf:resource="http://www.archive.org/details/pausaniasgreece02pausuoft"/>
-    <ns0:relation rdf:resource="https://openlibrary.org/books/OL20425909M/Pausanias_Description_of_Greece"/>
+    <ns0:relation rdf:resource="https://openlibrary.org/books/OL7693986M/Pausanias"/>
     <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L188.pdf"/>
     <ns0:title>Pausanias -- Description of Greece II: Books 3-5 (Laconia, Messenia, Elis 1)</ns0:title>
   </rdf:Description>

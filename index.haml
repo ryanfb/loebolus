@@ -24,38 +24,41 @@
         border-bottom: 1px solid black;
       }
     :javascript
-      var _gaq = _gaq || [];
-      var pluginUrl =
-       '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-      _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-      _gaq.push(['_setAccount', 'UA-32373168-1']);
-      _gaq.push(['_trackPageview']);
-      (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-32373168-1', 'auto');
+      ga('send', 'pageview');
+    :javascript
+      var trackOutboundLink = function(url) {
+         ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+           function () {
+           document.location = url;
+           }
+         });
+      }
   %body
     %h1 Loebolus
     %p
       Loebolus is based on
-      %a{:href => 'http://www.edonnelly.com/loebs.html'}
+      %a{:href => 'http://www.edonnelly.com/loebs.html', :onclick => "trackOutboundLink('http://www.edonnelly.com/loebs.html'); return false;"}
         Edwin Donnelly's “Downloebables”
       , aiming to make all the public domain Loebs more easily downloadable
       by re-hosting the PDF's directly, without the need to enter CAPTCHA's.
     %p
       You can also download
-      %a{:href => 'https://github.com/ryanfb/loebolus-data/archive/master.zip'}
+      %a{:href => 'https://github.com/ryanfb/loebolus-data/archive/master.zip', :onclick => "trackOutboundLink('https://github.com/ryanfb/loebolus-data/archive/master.zip'); return false;"}
         a .zip containing all #{associations.keys.length} PDF's
       (3.2GB).
       Or
-      %a{:href => 'https://github.com/ryanfb/loebolus'}
+      %a{:href => 'https://github.com/ryanfb/loebolus', :onclick => "trackOutboundLink('https://github.com/ryanfb/loebolus'); return false;"}
         view the code used for generating this site on GitHub.
     %ul
       - associations.sort.map do |key,value|
         %li
-          %a{:href => "http://ryanfb.github.io/loebolus-data/#{key}.pdf"}
+          %a{:href => "http://ryanfb.github.io/loebolus-data/#{key}.pdf", :onclick => "trackOutboundLink('http://ryanfb.github.io/loebolus-data/#{key}.pdf'); return false;"}
             #{key} - #{value['title']}
     %small
-      By downloading any of these files, you agree that you have verified that it is legal to do so from your territory. If you believe you are the copyright holder on any of these files and that they are <strong>not</strong> in the public domain in the United States, please <a href='mailto:ryan.baumann@gmail.com'>contact me</a>. Note that for works published or with a copyright notice between 1923 and 1963 and linked from here, I have attempted to verify that there has been no <a href='http://collections.stanford.edu/copyrightrenewals/'>copyright renewal</a> and that the work is not covered by GATT, allowing the work to fall into the public domain in the United States.
+      By downloading any of these files, you agree that you have verified that it is legal to do so from your territory. If you believe you are the copyright holder on any of these files and that they are <strong>not</strong> in the public domain in the United States, please <a href='mailto:ryan.baumann@gmail.com' onclick="trackOutboundLink('mailto:ryan.baumann@gmail.com'); return false;">contact me</a>. Note that for works published or with a copyright notice between 1923 and 1963 and linked from here, I have attempted to verify that there has been no <a href='http://collections.stanford.edu/copyrightrenewals/' onclick="trackOutboundLink('http://collections.stanford.edu/copyrightrenewals/'); return false;">copyright renewal</a> and that the work is not covered by GATT, allowing the work to fall into the public domain in the United States.

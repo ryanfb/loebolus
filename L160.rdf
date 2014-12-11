@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L160.rdf">
+    <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
+    <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L160.pdf"/>
+    <ns0:title>Polybius -- Histories V: Books 16-27</ns0:title>
+  </rdf:Description>
+</rdf:RDF>

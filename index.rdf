@@ -245,7 +245,9 @@
     <ns0:hasPart rdf:resource="http://ryanfb.github.com/loebolus/L350.rdf"/>
     <ns0:hasPart rdf:resource="http://ryanfb.github.com/loebolus/L352.rdf"/>
     <ns0:hasPart rdf:resource="http://ryanfb.github.com/loebolus/L353.rdf"/>
+    <ns0:hasPart rdf:resource="http://ryanfb.github.com/loebolus/L354.rdf"/>
     <ns0:hasPart rdf:resource="http://ryanfb.github.com/loebolus/L355.rdf"/>
+    <ns0:hasPart rdf:resource="http://ryanfb.github.com/loebolus/L356.rdf"/>
     <ns0:hasPart rdf:resource="http://ryanfb.github.com/loebolus/L358.rdf"/>
     <ns0:hasPart rdf:resource="http://ryanfb.github.com/loebolus/L360.rdf"/>
     <ns0:hasPart rdf:resource="http://ryanfb.github.com/loebolus/L363.rdf"/>

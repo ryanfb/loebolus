@@ -31,34 +31,26 @@
 
       ga('create', 'UA-32373168-1', 'auto');
       ga('send', 'pageview');
-    :javascript
-      var trackOutboundLink = function(url) {
-         ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
-           function () {
-           document.location = url;
-           }
-         });
-      }
   %body
     %h1 Loebolus
     %p
       Loebolus is based on
-      %a{:href => 'http://www.edonnelly.com/loebs.html', :onclick => "trackOutboundLink('http://www.edonnelly.com/loebs.html'); return false;"}
+      %a{:href => 'http://www.edonnelly.com/loebs.html'}
         Edwin Donnelly's “Downloebables”
       , aiming to make all the public domain Loebs more easily downloadable
       by re-hosting the PDF's directly, without the need to enter CAPTCHA's.
     %p
       You can also download
-      %a{:href => 'https://github.com/ryanfb/loebolus-data/archive/gh-pages.zip', :onclick => "trackOutboundLink('https://github.com/ryanfb/loebolus-data/archive/gh-pages.zip'); return false;"}
+      %a{:href => 'https://github.com/ryanfb/loebolus-data/archive/gh-pages.zip'}
         a .zip containing all #{associations.keys.length} PDF's
       (3.2GB).
       Or
-      %a{:href => 'https://github.com/ryanfb/loebolus', :onclick => "trackOutboundLink('https://github.com/ryanfb/loebolus'); return false;"}
+      %a{:href => 'https://github.com/ryanfb/loebolus'}
         view the code used for generating this site on GitHub.
     %ul
       - associations.sort.map do |key,value|
         %li
-          %a{:href => "https://ryanfb.github.io/loebolus-data/#{key}.pdf", :onclick => "trackOutboundLink('https://ryanfb.github.io/loebolus-data/#{key}.pdf'); return false;"}
+          %a{:href => "https://ryanfb.github.io/loebolus-data/#{key}.pdf"}
             #{key} - #{value['title']}
     %small
-      By downloading any of these files, you agree that you have verified that it is legal to do so from your territory. If you believe you are the copyright holder on any of these files and that they are <strong>not</strong> in the public domain in the United States, please <a href='mailto:ryan.baumann@gmail.com' onclick="trackOutboundLink('mailto:ryan.baumann@gmail.com'); return false;">contact me</a>. Note that for works published or with a copyright notice between 1923 and 1963 and linked from here, I have attempted to verify that there has been no <a href='http://collections.stanford.edu/copyrightrenewals/' onclick="trackOutboundLink('http://collections.stanford.edu/copyrightrenewals/'); return false;">copyright renewal</a> and that the work is not covered by GATT, allowing the work to fall into the public domain in the United States.
+      By downloading any of these files, you agree that you have verified that it is legal to do so from your territory. If you believe you are the copyright holder on any of these files and that they are <strong>not</strong> in the public domain in the United States, please <a href='mailto:ryan.baumann@gmail.com'>contact me</a>. Note that for works published or with a copyright notice between 1923 and 1963 and linked from here, I have attempted to verify that there has been no <a href='http://collections.stanford.edu/copyrightrenewals/'>copyright renewal</a> and that the work is not covered by GATT, allowing the work to fall into the public domain in the United States.

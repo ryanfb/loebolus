@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
-  <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L392.rdf">
-    <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
-    <ns0:relation rdf:resource="http://www.archive.org/details/plinynaturalhist001816mbp"/>
-    <ns0:relation rdf:resource="https://openlibrary.org/books/ia:plinynaturalhist001816mbp/Pliny_Natural_History_Vol_VI"/>
-    <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L392.pdf"/>
+<?xml version='1.0' encoding='utf-8' ?>
+<rdf:RDF xmlns:ns0='http://purl.org/dc/terms/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+  <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L392.rdf'>
     <ns0:title>Pliny -- Natural History VI: Books 20-23</ns0:title>
+    <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/plinynaturalhist001816mbp' />
+     <ns0:relation rdf:resource='https://openlibrary.org/books/ia:plinynaturalhist001816mbp/Pliny_Natural_History_Vol_VI' />
+    <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L392.pdf' />
   </rdf:Description>
 </rdf:RDF>

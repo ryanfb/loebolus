@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ns0="http://purl.org/dc/terms/">
-  <rdf:Description rdf:about="http://ryanfb.github.com/loebolus/L018N.rdf">
-    <ns0:isPartOf rdf:resource="http://ryanfb.github.com/loebolus/"/>
-    <ns0:relation rdf:resource="http://books.google.com/books?id=AGgQnqs5_yUC"/>
-    <ns0:source rdf:resource="http://ryanfb.github.io/loebolus-data/L018N.pdf"/>
+<?xml version='1.0' encoding='utf-8' ?>
+<rdf:RDF xmlns:ns0='http://purl.org/dc/terms/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+  <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L018N.rdf'>
     <ns0:title>Propertius -- Propertius</ns0:title>
+    <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='http://books.google.com/books?id=AGgQnqs5_yUC' />
+    <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L018N.pdf' />
   </rdf:Description>
 </rdf:RDF>

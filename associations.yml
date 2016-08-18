@@ -690,6 +690,8 @@ L170N:
   title: 'Homer -- Iliad I: Books 1-12'
   archive: http://www.archive.org/details/HomersIliadloeb1
   openlibrary: 
+L171N:
+  title: 'Homer -- Iliad II: Books 13-24'
 L174:
   title: Frontinus -- Stratagems. Aqueducts of Rome
   archive: http://www.archive.org/details/stratagemsaquedu00fronuoft
@@ -884,6 +886,9 @@ L250:
   title: Tertullian -- Apology and De Spectaculis. Octavius
   archive: http://www.archive.org/details/apologydespectac00tertuoft
   openlibrary: https://openlibrary.org/books/OL23278382M/Apology.
+L251:
+  title: 'Vitruvius -- On Architecture I: Books 1-5'
+  archive: http://archive.org/details/L251VitruviusOnArchitectureI15
 L253:
   title: Ovid -- Fasti
   archive: http://www.archive.org/details/ovidsfasti00oviduoft

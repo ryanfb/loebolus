@@ -1,7 +1,7 @@
 # Loebolus
 Loebolus aims to make all the public domain Loebs more easily downloadable by re-hosting the PDF's directly, without the need to enter CAPTCHA's.
 
-##SYNOPSIS
+## SYNOPSIS
 
 The tools used to construct the site are:
 

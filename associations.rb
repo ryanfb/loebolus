@@ -81,7 +81,11 @@ doc.xpath('//td/a[contains(@href,"www.hup.harvard.edu/catalog/") and (text() != 
       associations[loeb_number]['archive'] = archive['href']
 
       id = archive['href'].split('/').last
-      associations[loeb_number]['openlibrary'] = get_redirect("https://openlibrary.org/ia/#{id}")
+      openlibrary = get_redirect("https://openlibrary.org/ia/#{id}")
+      if openlibrary
+        $stderr.puts "Got openlibrary: #{openlibrary}"
+        associations[loeb_number]['openlibrary'] = openlibrary
+      end
     end
     if google && google['href'] =~ /books\.google\.com\//
       associations[loeb_number]['google'] = google['href']

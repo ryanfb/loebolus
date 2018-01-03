@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L165.rdf'>
     <ns0:title>Plato -- Laches. Protagoras. Meno. Euthydemus</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23325808M/Plato_with_an_English_translation.' />
     <ns0:relation rdf:resource='http://www.archive.org/details/platowithenglish04platuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23325808M/Plato_with_an_English_translation.' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L165.pdf' />
   </rdf:Description>
 </rdf:RDF>

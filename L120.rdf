@@ -4,7 +4,7 @@
     <ns0:title>Herodotus -- Herodotus IV: Books 8-9</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/herodotus04hero' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL16203729M/Herodotus' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL16203729M/Herodotus' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L120.pdf' />
   </rdf:Description>
 </rdf:RDF>

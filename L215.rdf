@@ -4,7 +4,7 @@
     <ns0:title>Basil -- Basil II: Letters 59-185</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/letterswithengli02basiuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23312244M/Letters.' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23312244M/Letters.' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L215.pdf' />
   </rdf:Description>
 </rdf:RDF>

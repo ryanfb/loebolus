@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L236.rdf'>
     <ns0:title>Arrian -- Anabasis Alexandri, Books 1-4</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL13578219M/Arrian' />
     <ns0:relation rdf:resource='http://www.archive.org/details/arrianar01arriuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL13578219M/Arrian' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L236.pdf' />
   </rdf:Description>
 </rdf:RDF>

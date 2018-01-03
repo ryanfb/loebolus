@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L418.rdf'>
     <ns0:title>Pliny -- Natural History VIII: Books 28-32. Index of Fishes</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/ia:naturalhistory08plinuoft/Natural_history' />
     <ns0:relation rdf:resource='http://archive.org/details/naturalhistory08plinuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/ia:naturalhistory08plinuoft/Natural_history' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L418.pdf' />
   </rdf:Description>
 </rdf:RDF>

@@ -3,9 +3,9 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L080.rdf'>
     <ns0:title>Plutarch -- Lives IV: Alcibiades and Coriolanus. Lysander and Sulla</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7056271M/Plutarch&#39;s_Lives' />
+    <ns0:relation rdf:resource='http://books.google.com/books?id=0SwMAAAAIAAJ' />
     <ns0:relation rdf:resource='http://www.archive.org/details/plutarchslives04plut' />
-     <ns0:relation rdf:resource="https://openlibrary.org/books/OL7056271M/Plutarch's_Lives" />
-     <ns0:relation rdf:resource='http://books.google.com/books?id=0SwMAAAAIAAJ' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L080.pdf' />
   </rdf:Description>
 </rdf:RDF>

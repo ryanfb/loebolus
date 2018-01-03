@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L267.rdf'>
     <ns0:title>Strabo -- Geography VIII: Book 17 and General Index</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23301297M/The_geography_of_Strabo.' />
     <ns0:relation rdf:resource='http://www.archive.org/details/geographyofstrab08strauoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23301297M/The_geography_of_Strabo.' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L267.pdf' />
   </rdf:Description>
 </rdf:RDF>

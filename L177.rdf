@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L177.rdf'>
     <ns0:title>Dio Cassius -- Dio's Roman History IX: Books 71-80</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL13578222M/Dio&#39;s_Roman_history' />
     <ns0:relation rdf:resource='http://www.archive.org/details/diosromanhistory09cassuoft' />
-     <ns0:relation rdf:resource="https://openlibrary.org/books/OL13578222M/Dio's_Roman_history" />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L177.pdf' />
   </rdf:Description>
 </rdf:RDF>

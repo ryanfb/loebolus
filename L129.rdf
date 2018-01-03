@@ -4,8 +4,8 @@
     <ns0:title>Callimachus -- Callimachus and Lycophron. Aratus</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/callimachuslycop00calluoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL7174767M/Callimachus_and_Lycophron' />
-     <ns0:relation rdf:resource='http://books.google.com/books?id=bqVfAAAAMAAJ' />
+    <ns0:relation rdf:resource='http://books.google.com/books?id=bqVfAAAAMAAJ' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7174767M/Callimachus_and_Lycophron' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L129.pdf' />
   </rdf:Description>
 </rdf:RDF>

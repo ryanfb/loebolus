@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L153.rdf'>
     <ns0:title>Eusebius -- Ecclesiastical History I: Books 1-5</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL6698080M/The_ecclesiastical_history' />
     <ns0:relation rdf:resource='http://www.archive.org/details/ecclesiasticalhi01euseuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL6698080M/The_ecclesiastical_history' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L153.pdf' />
   </rdf:Description>
 </rdf:RDF>

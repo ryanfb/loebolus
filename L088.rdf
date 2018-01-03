@@ -3,9 +3,9 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L088.rdf'>
     <ns0:title>Xenophon -- Hellenica, Books 1-5</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23362576M/Xenophon_with_an_English_translation_by_Carleton_L._Brownson.' />
+    <ns0:relation rdf:resource='http://books.google.com/books?id=7w8-5jp2KLwC' />
     <ns0:relation rdf:resource='http://www.archive.org/details/xenophonwithengl01xenouoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23362576M/Xenophon_with_an_English_translation_by_Carleton_L._Brownson.' />
-     <ns0:relation rdf:resource='http://books.google.com/books?id=7w8-5jp2KLwC' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L088.pdf' />
   </rdf:Description>
 </rdf:RDF>

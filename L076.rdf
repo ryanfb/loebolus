@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L076.rdf'>
     <ns0:title>Seneca -- Ad Lucilium Epistulae Morales II: Letters 66-92</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7083511M/Ad_Lucilium_epistulae_morales' />
     <ns0:relation rdf:resource='http://www.archive.org/details/adluciliumepistu02sene' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL7083511M/Ad_Lucilium_epistulae_morales' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L076.pdf' />
   </rdf:Description>
 </rdf:RDF>

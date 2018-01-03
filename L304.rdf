@@ -4,7 +4,7 @@
     <ns0:title>Celsus -- De Medicina II: Books 5-6</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/demedicina02celsuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL14104464M/De_medicina' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL14104464M/De_medicina' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L304.pdf' />
   </rdf:Description>
 </rdf:RDF>

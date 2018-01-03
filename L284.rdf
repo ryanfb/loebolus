@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L284.rdf'>
     <ns0:title>Minor Latin Poets -- Minor Latin Poets</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23319657M/Minor_Latin_poets' />
     <ns0:relation rdf:resource='http://www.archive.org/details/minorlatinpoetsw00duffuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23319657M/Minor_Latin_poets' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L284.pdf' />
   </rdf:Description>
 </rdf:RDF>

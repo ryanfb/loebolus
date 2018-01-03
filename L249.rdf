@@ -4,7 +4,7 @@
     <ns0:title>Tacitus -- Histories II: 4-5. Annals 1-3</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/histories02taciuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL6688656M/The_Histories' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL6688656M/The_Histories' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L249.pdf' />
   </rdf:Description>
 </rdf:RDF>

@@ -4,7 +4,7 @@
     <ns0:title>Manetho -- History of Egypt and Other Works</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/manethowithengli00maneuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23317152M/Manetho_with_an_English_translation_by_W.G._Waddell' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23317152M/Manetho_with_an_English_translation_by_W.G._Waddell' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L350.pdf' />
   </rdf:Description>
 </rdf:RDF>

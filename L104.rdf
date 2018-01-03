@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L104.rdf'>
     <ns0:title>Homer -- Odyssey I: Books 1-12</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL22888317M/The_odyssey' />
     <ns0:relation rdf:resource='http://www.archive.org/details/odysseyh01homeuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL22888317M/The_odyssey' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L104.pdf' />
   </rdf:Description>
 </rdf:RDF>

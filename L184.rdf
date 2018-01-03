@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L184.rdf'>
     <ns0:title>Diogenes Laertius -- Lives of Eminent Philosophers I: Books 1-5</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7693982M/Diogenes_Laertius' />
     <ns0:relation rdf:resource='https://archive.org/details/DiogenesLaertius01LivesOfEminentPhilosophers15_201412' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL7693982M/Diogenes_Laertius' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L184.pdf' />
   </rdf:Description>
 </rdf:RDF>

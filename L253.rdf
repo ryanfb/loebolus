@@ -4,7 +4,7 @@
     <ns0:title>Ovid -- Fasti</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/ovidsfasti00oviduoft' />
-     <ns0:relation rdf:resource="https://openlibrary.org/books/OL6769845M/Ovid's_Fasti" />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL6769845M/Ovid&#39;s_Fasti' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L253.pdf' />
   </rdf:Description>
 </rdf:RDF>

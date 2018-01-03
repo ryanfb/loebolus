@@ -4,7 +4,7 @@
     <ns0:title>Thucydides -- History of the Peleponnesian War I: Books 1-2</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/thucydideswithen01thucuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23348482M/Thucydides.' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23348482M/Thucydides.' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L108.pdf' />
   </rdf:Description>
 </rdf:RDF>

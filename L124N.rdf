@@ -4,8 +4,8 @@
     <ns0:title>Quintilian -- Quintilian I: Institutio Oratoria Books 1-3</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/institutioorator00quin' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL7149233M/The_Institutio_Oratoria_of_Quintilian' />
-     <ns0:relation rdf:resource='http://books.google.com/books?id=EpdfAAAAMAAJ' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7149233M/The_Institutio_Oratoria_of_Quintilian' />
+    <ns0:relation rdf:resource='http://books.google.com/books?id=EpdfAAAAMAAJ' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L124N.pdf' />
   </rdf:Description>
 </rdf:RDF>

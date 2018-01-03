@@ -4,7 +4,7 @@
     <ns0:title>Livy -- Livy XIII: Books 43-45</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/livywithenglisht13livyuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23315794M/Livy' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23315794M/Livy' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L396.pdf' />
   </rdf:Description>
 </rdf:RDF>

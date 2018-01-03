@@ -4,7 +4,7 @@
     <ns0:title>Ammianus Marcellinus -- Roman History I: Books 14-19</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/ammianusmarcelli01ammiuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23276078M/Ammianus_Marcellinus_with_an_English_translation_by_John_C._Rolfe.' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23276078M/Ammianus_Marcellinus_with_an_English_translation_by_John_C._Rolfe.' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L300.pdf' />
   </rdf:Description>
 </rdf:RDF>

@@ -3,9 +3,9 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L496.rdf'>
     <ns0:title>Hesiod, the Homeric Hymns, and Homerica</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7066534M/Hesiod_the_Homeric_hymns_and_Homerica' />
+    <ns0:relation rdf:resource='http://books.google.com/books?id=cotA1ZFPrTgC' />
     <ns0:relation rdf:resource='http://www.archive.org/details/hesiodhomerichym00hesiuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL7066534M/Hesiod_the_Homeric_hymns_and_Homerica' />
-     <ns0:relation rdf:resource='http://books.google.com/books?id=cotA1ZFPrTgC' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L496.pdf' />
   </rdf:Description>
 </rdf:RDF>

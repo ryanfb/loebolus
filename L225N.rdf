@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L225N.rdf'>
     <ns0:title>Theophrastus -- Characters of Theophrastus</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL20424848M/The_Characters_of_Theophrastus_newly_edited_and_translated_by_J.M._Edmonds' />
     <ns0:relation rdf:resource='http://www.archive.org/details/charactersofthe00theouoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL20424848M/The_Characters_of_Theophrastus_newly_edited_and_translated_by_J.M._Edmonds' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L225N.pdf' />
   </rdf:Description>
 </rdf:RDF>

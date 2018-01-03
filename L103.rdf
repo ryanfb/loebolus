@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L103.rdf'>
     <ns0:title>Plutarch -- Lives XI: Aratus. Artaxerxes. Galba. Otho. General Index</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7056271M/Plutarch&#39;s_Lives' />
     <ns0:relation rdf:resource='http://www.archive.org/details/plutarchslives11plut' />
-     <ns0:relation rdf:resource="https://openlibrary.org/books/OL7056271M/Plutarch's_Lives" />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L103.pdf' />
   </rdf:Description>
 </rdf:RDF>

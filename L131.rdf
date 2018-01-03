@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L131.rdf'>
     <ns0:title>Epictetus -- Discourses, Books 1-2</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/ia:epictetusthedisc010837mbp/Epictetus_The_Discourses_As_Reported_Volume_I' />
     <ns0:relation rdf:resource='http://www.archive.org/details/epictetusthedisc010837mbp' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/ia:epictetusthedisc010837mbp/Epictetus_The_Discourses_As_Reported_Volume_I' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L131.pdf' />
   </rdf:Description>
 </rdf:RDF>

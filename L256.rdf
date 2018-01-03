@@ -4,7 +4,7 @@
     <ns0:title>Philostratus the Elder -- Imagines. Callistatus: Descriptions</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/imagines00philuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23306032M/Imagines' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23306032M/Imagines' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L256.pdf' />
   </rdf:Description>
 </rdf:RDF>

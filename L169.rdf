@@ -4,7 +4,7 @@
     <ns0:title>Thucydides -- History of the Peleponnesian War IV: Books 7-8. General Index</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/historyofpelopon04thucuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL22153397M/History_of_the_Peloponnesian_war' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL22153397M/History_of_the_Peloponnesian_war' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L169.pdf' />
   </rdf:Description>
 </rdf:RDF>

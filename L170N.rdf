@@ -4,7 +4,7 @@
     <ns0:title>Homer -- Iliad I: Books 1-12</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/HomersIliadloeb1' />
-     <ns0:relation rdf:resource='' />
+    <ns0:relation rdf:resource='' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L170N.pdf' />
   </rdf:Description>
 </rdf:RDF>

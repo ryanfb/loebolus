@@ -4,7 +4,7 @@
     <ns0:title>Lysias -- Lysias</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/lysiaslamb00lysiuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL6764075M/Lysias' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL6764075M/Lysias' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L244.pdf' />
   </rdf:Description>
 </rdf:RDF>

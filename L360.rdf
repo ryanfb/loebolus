@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L360.rdf'>
     <ns0:title>Greek Literary Papyri I</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL20425919M/Greek_literary_papyri' />
     <ns0:relation rdf:resource='http://www.archive.org/details/greekliterarypap01pageuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL20425919M/Greek_literary_papyri' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L360.pdf' />
   </rdf:Description>
 </rdf:RDF>

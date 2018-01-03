@@ -3,9 +3,9 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L008N.rdf'>
     <ns0:title>Cicero -- Letters to Atticus II</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7078087M/Letters_to_Atticus_with_an_English_translation_by_E.O._Winstedt.' />
     <ns0:relation rdf:resource='http://www.archive.org/details/letterstoatticus02ciceuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL7078087M/Letters_to_Atticus_with_an_English_translation_by_E.O._Winstedt.' />
-     <ns0:relation rdf:resource='http://books.google.com/books?id=dMyx1LfFZoQC' />
+    <ns0:relation rdf:resource='http://books.google.com/books?id=dMyx1LfFZoQC' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L008N.pdf' />
   </rdf:Description>
 </rdf:RDF>

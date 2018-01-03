@@ -4,7 +4,7 @@
     <ns0:title>Juvenal -- Juvenal and Persius</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/juvenalpersiuswi00juveuoft' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL7122831M/Juvenal_and_Persius.' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7122831M/Juvenal_and_Persius.' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L091N.pdf' />
   </rdf:Description>
 </rdf:RDF>

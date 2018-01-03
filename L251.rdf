@@ -3,7 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L251.rdf'>
     <ns0:title>Vitruvius -- On Architecture I: Books 1-5</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://archive.org/details/L251VitruviusOnArchitectureI15' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/vitruviusonarchi006859mbp' />
+     <ns0:relation rdf:resource='https://openlibrary.org/books/ia:vitruviusonarchi006859mbp/Vitruvius_On_Architecture' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L251.pdf' />
   </rdf:Description>
 </rdf:RDF>

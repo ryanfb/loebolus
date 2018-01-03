@@ -4,7 +4,7 @@
     <ns0:title>Appian -- Roman History III: The Civil Wars, Books 1-3.26</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/appiansromanhist03appi' />
-     <ns0:relation rdf:resource='https://openlibrary.org/books/OL15087182M/Appians̕_Roman_history' />
+     <ns0:relation rdf:resource="https://openlibrary.org/books/OL7041812M/Appian's_Roman_history" />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L004.pdf' />
   </rdf:Description>
 </rdf:RDF>

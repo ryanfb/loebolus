@@ -2,7 +2,7 @@
 Loebolus aims to make all the public domain Loebs more easily downloadable by re-hosting the PDF's directly, without the need to enter CAPTCHA's.
 
 * Data: <https://github.com/ryanfb/loebolus-data>
-* Copyright assessment: <https://github.com/ryanfb/loeb-copyright/>
+* Copyright assessment: <https://github.com/ryanfb/loeb-copyright>
 
 ## SYNOPSIS
 

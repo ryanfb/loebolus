@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L216N.rdf'>
     <ns0:title>Cicero -- Letters to His Friends II: Books 7-12</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/letterstohisfrie02ciceuoft' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL13443897M/The_letters_to_his_friends' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/letterstohisfrie02ciceuoft' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L216N.pdf' />
   </rdf:Description>
 </rdf:RDF>

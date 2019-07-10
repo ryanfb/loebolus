@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L178.rdf'>
     <ns0:title>Aristophanes -- Aristophanes I: Acharnians. Knights. Clouds. Wasps</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23278781M/Aristophanes' />
     <ns0:relation rdf:resource='http://www.archive.org/details/aristophaneswith01arisuoft' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23278781M/Aristophanes' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L178.pdf' />
   </rdf:Description>
 </rdf:RDF>

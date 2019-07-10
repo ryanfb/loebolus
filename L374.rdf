@@ -6,8 +6,8 @@
       Exordia. Letters
     </ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/funeralspeechero00demouoft' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL18074136M/Funeral_speech_Erotic_essay_60_61_Exordia_and_Letters_with_an_English_translation_by_Norman_W._DeWit' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/funeralspeechero00demouoft' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L374.pdf' />
   </rdf:Description>
 </rdf:RDF>

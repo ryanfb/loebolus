@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L161.rdf'>
     <ns0:title>Polybius -- Histories VI: Books 28-39</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/historieswitheng06poly' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL24336935M/The_histories_with_an_English_translation_by_W.R._Paton' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/historieswitheng06poly' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L161.pdf' />
   </rdf:Description>
 </rdf:RDF>

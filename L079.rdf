@@ -6,8 +6,8 @@
       Concerning Weather Signs
     </ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/enquiryintoplant02theouoft' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL7067959M/Enquiry_into_plants_and_minor_works_on_odours_and_weather_signs_with_an_English_translation_by_Sir_A' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/enquiryintoplant02theouoft' />
     <ns0:relation rdf:resource='http://books.google.com/books?id=SAasfiFvgd0C' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L079.pdf' />
   </rdf:Description>

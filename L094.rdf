@@ -3,9 +3,9 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L094.rdf'>
     <ns0:title>Martial -- Epigrams I: Spectacles. Books 1-7</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='http://books.google.com/books?id=w4ZfAAAAMAAJ' />
     <ns0:relation rdf:resource='http://www.archive.org/details/martialepigrams01martiala' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL7097061M/Martial_epigrams' />
-    <ns0:relation rdf:resource='http://books.google.com/books?id=w4ZfAAAAMAAJ' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L094.pdf' />
   </rdf:Description>
 </rdf:RDF>

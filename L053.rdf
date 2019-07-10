@@ -3,9 +3,9 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L053.rdf'>
     <ns0:title>Dio Cassius -- Dio's Roman History III: Books 36-40</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:relation rdf:resource='http://books.google.com/books?id=3EhhOznnQG0C' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL7175490M/Dio&#39;s_Roman_history_with_an_English_translation_by_Earnest_Cary_PH.D._on_the_basis_of_the_version_of' />
     <ns0:relation rdf:resource='http://www.archive.org/details/diosromanhistory03cassuoft' />
-    <ns0:relation rdf:resource='http://books.google.com/books?id=3EhhOznnQG0C' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L053.pdf' />
   </rdf:Description>
 </rdf:RDF>

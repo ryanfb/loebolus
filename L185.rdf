@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L185.rdf'>
     <ns0:title>Diogenes Laertius -- Lives of Eminent Philosophers II: Books 6-10</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/livesofeminentph02dioguoft' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL18074380M/Lives_of_eminent_philosophers' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/livesofeminentph02dioguoft' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L185.pdf' />
   </rdf:Description>
 </rdf:RDF>

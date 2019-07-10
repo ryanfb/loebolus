@@ -3,9 +3,9 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L052.rdf'>
     <ns0:title>Xenophon -- Cyropaedia II: Books 5-8</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/cyropaedia03xenogoog' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL6568595M/Cyropaedia' />
     <ns0:relation rdf:resource='http://books.google.com/books?id=I13EUvMSDyIC' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/cyropaedia03xenogoog' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L052.pdf' />
   </rdf:Description>
 </rdf:RDF>

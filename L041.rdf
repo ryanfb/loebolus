@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L041.rdf'>
     <ns0:title>Ovid -- Heroides. Amores</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/heroidesamores00ovid' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL14011312M/Heroides_and_Amores' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/heroidesamores00ovid' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L041.pdf' />
   </rdf:Description>
 </rdf:RDF>

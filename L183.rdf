@@ -7,8 +7,8 @@
       Hunting. Constitution of the Athenians
     </ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23331600M/Scripta_minora_with_an_English_translation_by_E.C._Marchant' />
     <ns0:relation rdf:resource='http://www.archive.org/details/scriptaminorawit00xenouoft' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23331600M/Scripta_minora_with_an_English_translation_by_E.C._Marchant' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L183.pdf' />
   </rdf:Description>
 </rdf:RDF>

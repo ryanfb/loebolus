@@ -6,8 +6,8 @@
       To Brutus
     </ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL13443897M/The_letters_to_his_friends' />
     <ns0:relation rdf:resource='http://www.archive.org/details/letterstohisfrie03ciceuoft' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL13443897M/The_letters_to_his_friends' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L230N.pdf' />
   </rdf:Description>
 </rdf:RDF>

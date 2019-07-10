@@ -6,8 +6,8 @@
       House. The Persian
     </ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7694056M/Plautus' />
     <ns0:relation rdf:resource='http://www.archive.org/details/plautuswithengli03plauuoft' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7694056M/Plautus' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L163.pdf' />
   </rdf:Description>
 </rdf:RDF>

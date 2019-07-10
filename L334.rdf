@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L334.rdf'>
     <ns0:title>Varro -- On the Latin Language II: Books 8-10. Fragments</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL6373636M/On_the_Latin_language' />
     <ns0:relation rdf:resource='http://www.archive.org/details/onlatinlanguage02varruoft' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL6373636M/On_the_Latin_language' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L334.pdf' />
   </rdf:Description>
 </rdf:RDF>

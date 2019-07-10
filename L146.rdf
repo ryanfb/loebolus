@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L146.rdf'>
     <ns0:title>Aeschylus -- Agamemnon. Libation-Bearers. Eumenides. Fragments</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/aeschyluswitheng02aescuoft' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23269521M/Aeschylus_with_an_English_translation_by_Herbert_Weir_Smyth.' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/aeschyluswitheng02aescuoft' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L146.pdf' />
   </rdf:Description>
 </rdf:RDF>

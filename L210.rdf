@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L210.rdf'>
     <ns0:title>Josephus -- Josephus III: The Jewish War Books 4-7</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/josephuswithengl03joseuoft' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL19367126M/Josephus' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/josephuswithengl03joseuoft' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L210.pdf' />
   </rdf:Description>
 </rdf:RDF>

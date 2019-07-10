@@ -6,9 +6,9 @@
       Marcus Aurelius Antoninus II
     </ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7240063M/The_correspondence_of_Marcus_Cornelius_Fronto_with_Marcus_Aurelius_Antoninus_Lucius_Verus_Antoninus_' />
     <ns0:relation rdf:resource='http://books.google.com/books?id=Ao3YulNSO2EC' />
     <ns0:relation rdf:resource='http://www.archive.org/details/correspondenceof00fron' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7240063M/The_correspondence_of_Marcus_Cornelius_Fronto_with_Marcus_Aurelius_Antoninus_Lucius_Verus_Antoninus_' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L113.pdf' />
   </rdf:Description>
 </rdf:RDF>

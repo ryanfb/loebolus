@@ -6,9 +6,9 @@
       Philopoemen and Flamininus
     </ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/plutarchslives10plut' />
-    <ns0:relation rdf:resource='http://books.google.com/books?id=5WYMAAAAIAAJ' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL7056271M/Plutarch&#39;s_Lives' />
+    <ns0:relation rdf:resource='http://books.google.com/books?id=5WYMAAAAIAAJ' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/plutarchslives10plut' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L102.pdf' />
   </rdf:Description>
 </rdf:RDF>

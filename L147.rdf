@@ -6,8 +6,8 @@
       Epidemics 1 &amp; 3. The Oath. Precepts. Nutriment
     </ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/hippocrates01hippuoft' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL13573609M/Hippocrates' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/hippocrates01hippuoft' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L147.pdf' />
   </rdf:Description>
 </rdf:RDF>

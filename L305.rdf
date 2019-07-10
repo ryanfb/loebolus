@@ -7,8 +7,8 @@
       Virtue of Alexander. Were the Athenians More Famous in War or in Wisdom?
     </ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23320586M/Moralia_in_fifteen_volumes_with_an_English_translation_by_Frank_Cole_Babbitt.' />
     <ns0:relation rdf:resource='http://www.archive.org/details/moraliainfifteen04plutuoft' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23320586M/Moralia_in_fifteen_volumes_with_an_English_translation_by_Frank_Cole_Babbitt.' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L305.pdf' />
   </rdf:Description>
 </rdf:RDF>

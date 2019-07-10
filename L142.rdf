@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L142.rdf'>
     <ns0:title>Lyra Graeca I: Terpander. Alcman. Sappho. Alcaeus</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/lyragraecabeing00edmogoog' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL6645708M/Lyra_graeca' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/lyragraecabeing00edmogoog' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L142.pdf' />
   </rdf:Description>
 </rdf:RDF>

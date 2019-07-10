@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L019.rdf'>
     <ns0:title>Quintus Smyrnaeus -- Fall of Troy</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://books.google.com/books?id=dzuucsTbUXcC' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL7041781M/The_fall_of_Troy' />
+    <ns0:relation rdf:resource='http://books.google.com/books?id=dzuucsTbUXcC' />
     <ns0:relation rdf:resource='http://www.archive.org/details/falloftroy00quin' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L019.pdf' />
   </rdf:Description>

@@ -8,8 +8,8 @@
       Lives of Pliny the Elder and Passienus Crispus
     </ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/suetonius02suetuoft' />
     <ns0:relation rdf:resource='http://books.google.com/books?id=s6b9HA_WE28C' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/suetonius02suetuoft' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL13440777M/Suetonius' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L038.pdf' />
   </rdf:Description>

@@ -8,8 +8,8 @@
       for Sale
     </ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL14021111M/Lucian' />
     <ns0:relation rdf:resource='http://books.google.com/books?id=yslZWHpj424C' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL14021111M/Lucian' />
     <ns0:relation rdf:resource='http://www.archive.org/details/lucianhar02luciuoft' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L054.pdf' />
   </rdf:Description>

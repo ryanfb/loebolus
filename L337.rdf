@@ -7,8 +7,8 @@
       for Offspring. Whether Vice Be Sufficient to Cause Unhappiness…
     </ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23320586M/Moralia_in_fifteen_volumes_with_an_English_translation_by_Frank_Cole_Babbitt.' />
     <ns0:relation rdf:resource='http://www.archive.org/details/moraliainfifteen06plutuoft' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23320586M/Moralia_in_fifteen_volumes_with_an_English_translation_by_Frank_Cole_Babbitt.' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L337.pdf' />
   </rdf:Description>
 </rdf:RDF>

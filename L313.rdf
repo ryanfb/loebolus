@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L313.rdf'>
     <ns0:title>Livy -- Livy XI: Books 38-39</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/livywithenglisht11livyuoft' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23315794M/Livy' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/livywithenglisht11livyuoft' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L313.pdf' />
   </rdf:Description>
 </rdf:RDF>

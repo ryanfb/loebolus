@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L237.rdf'>
     <ns0:title>Plato -- Republic I: Books 1-5</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL20425902M/The_Republic' />
     <ns0:relation rdf:resource='http://www.archive.org/details/republicshorey01platuoft' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL20425902M/The_Republic' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L237.pdf' />
   </rdf:Description>
 </rdf:RDF>

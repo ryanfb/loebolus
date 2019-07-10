@@ -3,9 +3,9 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L036.rdf'>
     <ns0:title>Plato -- Euthyphro. Apology. Crito. Phaedo. Phaedrus</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/plato01plat' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7209190M/Plato' />
     <ns0:relation rdf:resource='http://books.google.com/books?id=qFIMAAAAIAAJ' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7209190M/Plato' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/plato01plat' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L036.pdf' />
   </rdf:Description>
 </rdf:RDF>

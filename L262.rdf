@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L262.rdf'>
     <ns0:title>Jerome -- Select Letters</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/selectlettersofs00jerouoft' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL13578391M/Select_letters_of_St._Jerome' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/selectlettersofs00jerouoft' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L262.pdf' />
   </rdf:Description>
 </rdf:RDF>

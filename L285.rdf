@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L285.rdf'>
     <ns0:title>Aristotle -- Athenian Constitution. Eudemian Ethics. Virtues and Vices</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL18074182M/The_Athenian_Constitution_The_Eudemian_ethics_On_virtues_and_vices' />
     <ns0:relation rdf:resource='http://www.archive.org/details/athenianconstitu00arisuoft' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL18074182M/The_Athenian_Constitution_The_Eudemian_ethics_On_virtues_and_vices' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L285.pdf' />
   </rdf:Description>
 </rdf:RDF>

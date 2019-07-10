@@ -3,8 +3,8 @@
   <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L044.rdf'>
     <ns0:title>Apuleius -- The Golden Ass</ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/goldenassbeingme00apuliala' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL7152328M/The_golden_ass' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/goldenassbeingme00apuliala' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L044.pdf' />
   </rdf:Description>
 </rdf:RDF>

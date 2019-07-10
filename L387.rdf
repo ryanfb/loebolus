@@ -6,8 +6,8 @@
       Psychomachia. Contra Orationem Symmachi, Liber I
     </ns0:title>
     <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/prudentiuswithen01pruduoft' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23327900M/Prudentius_with_an_English_translation_by_H.J._Thomson.' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/prudentiuswithen01pruduoft' />
     <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L387.pdf' />
   </rdf:Description>
 </rdf:RDF>

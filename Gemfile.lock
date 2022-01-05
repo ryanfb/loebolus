@@ -101,8 +101,6 @@ GEM
     haml (5.2.2)
       temple (>= 0.8.0)
       tilt
-    hamster (3.0.0)
-      concurrent-ruby (~> 1.0)
     html-pipeline (2.14.0)
       activesupport (>= 2)
       nokogiri (>= 1.4)
@@ -247,8 +245,7 @@ GEM
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rdf (3.1.15)
-      hamster (~> 3.0)
+    rdf (3.2.2)
       link_header (~> 0.0, >= 0.0.8)
     rdf-aggregate-repo (2.2.1)
       rdf (>= 2.2, < 4.0)

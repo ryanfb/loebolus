@@ -84,7 +84,7 @@
       Or
       %a{:href => 'https://github.com/ryanfb/loebolus'}
         view the code used for generating this site on GitHub.
-    %ul
+    %ul{:style => 'list-style-type: none;'}
       - associations.sort.map do |key,value|
         %li{:class => value['language']}
           %a{:href => "https://ryanfb.github.io/loebolus-data/#{key}.pdf"}

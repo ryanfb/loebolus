@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <rdf:RDF xmlns:ns0='http://purl.org/dc/terms/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-  <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L085.rdf'>
+  <rdf:Description rdf:about='https://ryanfb.xyz/loebolus/L085.rdf'>
     <ns0:title>
       Greek Anthology IV: Book 10: The Hortatory and Admonitory Epigrams. Book
       11: The Convivial and Satirical Epigrams. Book 12: Strato's Musa Puerilis
     </ns0:title>
-    <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:isPartOf rdf:resource='https://ryanfb.xyz/loebolus/' />
     <ns0:relation rdf:resource='http://books.google.com/books?id=F41fAAAAMAAJ' />
-    <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L085.pdf' />
+    <ns0:source rdf:resource='https://ryanfb.xyz/loebolus-data/L085.pdf' />
   </rdf:Description>
 </rdf:RDF>

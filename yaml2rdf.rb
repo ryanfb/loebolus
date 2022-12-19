@@ -12,7 +12,7 @@ associations = YAML::load STDIN
 formatter = REXML::Formatters::Pretty.new(2, true)
 formatter.compact = true
 
-root_url = "http://ryanfb.github.com/loebolus/"
+root_url = "https://ryanfb.xyz/loebolus/"
 root_resource = RDF::Resource.new(root_url)
 
 File.open('index.rdf','w') do |file|
@@ -34,7 +34,7 @@ associations.sort.map do |key,value|
       writer << RDF::Graph.new do |graph|
         resource = RDF::Resource.new("#{root_url}#{key}.rdf")
         graph << [resource, RDF::Vocab::DC.isPartOf, root_resource]
-        graph << [resource, RDF::Vocab::DC.source, RDF::Resource.new("http://ryanfb.github.io/loebolus-data/#{key}.pdf")]
+        graph << [resource, RDF::Vocab::DC.source, RDF::Resource.new("https://ryanfb.xyz/loebolus-data/#{key}.pdf")]
         if associations[key].include?('title')
           graph << [resource, RDF::Vocab::DC.title, associations[key]['title']]
         end

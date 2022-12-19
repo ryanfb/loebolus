@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <rdf:RDF xmlns:ns0='http://purl.org/dc/terms/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-  <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L057N.rdf'>
+  <rdf:Description rdf:about='https://ryanfb.xyz/loebolus/L057N.rdf'>
     <ns0:title>Hesiod -- Homeric Hymns and Homerica</ns0:title>
-    <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7066534M/Hesiod_the_Homeric_hymns_and_Homerica' />
+    <ns0:isPartOf rdf:resource='https://ryanfb.xyz/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/hesiodhomerichym00hesiuoft' />
-    <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L057N.pdf' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL7066534M/Hesiod_the_Homeric_hymns_and_Homerica' />
+    <ns0:source rdf:resource='https://ryanfb.xyz/loebolus-data/L057N.pdf' />
   </rdf:Description>
 </rdf:RDF>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <rdf:RDF xmlns:ns0='http://purl.org/dc/terms/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-  <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L009.rdf'>
+  <rdf:Description rdf:about='https://ryanfb.xyz/loebolus/L009.rdf'>
     <ns0:title>
       Euripides -- Euripides I: Iphigenia at Aulis. Rhesus. Hecuba. The
       Daughters of Troy. Helen
     </ns0:title>
-    <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
+    <ns0:isPartOf rdf:resource='https://ryanfb.xyz/loebolus/' />
+    <ns0:relation rdf:resource='http://www.archive.org/details/euripidesway01euriuoft' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL23298544M/Euripides' />
     <ns0:relation rdf:resource='http://books.google.com/books?id=GmRiAAAAMAAJ' />
-    <ns0:relation rdf:resource='http://www.archive.org/details/euripidesway01euriuoft' />
-    <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L009.pdf' />
+    <ns0:source rdf:resource='https://ryanfb.xyz/loebolus-data/L009.pdf' />
   </rdf:Description>
 </rdf:RDF>

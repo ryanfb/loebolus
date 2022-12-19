@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <rdf:RDF xmlns:ns0='http://purl.org/dc/terms/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-  <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L303.rdf'>
+  <rdf:Description rdf:about='https://ryanfb.xyz/loebolus/L303.rdf'>
     <ns0:title>Diodorus Siculus -- Diodorus Siculus II: Books 2.35-4.58</ns0:title>
-    <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23295480M/Diodorus_of_Sicily_with_an_English_translation_by_C.H._Oldfather_and_others' />
+    <ns0:isPartOf rdf:resource='https://ryanfb.xyz/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/diodorusofsicily02dioduoft' />
-    <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L303.pdf' />
+    <ns0:relation rdf:resource='https://openlibrary.org/books/OL23295480M/Diodorus_of_Sicily_with_an_English_translation_by_C.H._Oldfather_and_others' />
+    <ns0:source rdf:resource='https://ryanfb.xyz/loebolus-data/L303.pdf' />
   </rdf:Description>
 </rdf:RDF>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <rdf:RDF xmlns:ns0='http://purl.org/dc/terms/' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-  <rdf:Description rdf:about='http://ryanfb.github.com/loebolus/L055.rdf'>
+  <rdf:Description rdf:about='https://ryanfb.xyz/loebolus/L055.rdf'>
     <ns0:title>Pliny the Younger -- Letters I: Books 1-7</ns0:title>
-    <ns0:isPartOf rdf:resource='http://ryanfb.github.com/loebolus/' />
-    <ns0:relation rdf:resource='http://books.google.com/books?id=yXhfAAAAMAAJ' />
+    <ns0:isPartOf rdf:resource='https://ryanfb.xyz/loebolus/' />
     <ns0:relation rdf:resource='http://www.archive.org/details/letterswithengli01plinuoft' />
     <ns0:relation rdf:resource='https://openlibrary.org/books/OL13508821M/Letters.' />
-    <ns0:source rdf:resource='http://ryanfb.github.io/loebolus-data/L055.pdf' />
+    <ns0:relation rdf:resource='http://books.google.com/books?id=yXhfAAAAMAAJ' />
+    <ns0:source rdf:resource='https://ryanfb.xyz/loebolus-data/L055.pdf' />
   </rdf:Description>
 </rdf:RDF>

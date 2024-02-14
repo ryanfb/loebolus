@@ -101,7 +101,7 @@ GEM
     html-pipeline (2.14.3)
       activesupport (>= 2)
       nokogiri (>= 1.4)
-    htmlbeautifier (1.4.2)
+    htmlbeautifier (1.4.3)
     htmlentities (4.3.4)
     http_parser.rb (0.8.0)
     i18n (1.14.1)

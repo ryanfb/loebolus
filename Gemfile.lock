@@ -260,7 +260,7 @@ GEM
     rdf-xsd (3.3.0)
       rdf (~> 3.3)
       rexml (~> 3.2)
-    rexml (3.3.3)
+    rexml (3.3.4)
       strscan
     rouge (3.30.0)
     ruby2_keywords (0.0.5)

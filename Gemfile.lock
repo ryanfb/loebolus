@@ -260,8 +260,7 @@ GEM
     rdf-xsd (3.3.0)
       rdf (~> 3.3)
       rexml (~> 3.2)
-    rexml (3.3.6)
-      strscan
+    rexml (3.3.9)
     rouge (3.30.0)
     ruby2_keywords (0.0.5)
     rubyzip (2.3.2)
@@ -276,7 +275,6 @@ GEM
       faraday (>= 0.17.3, < 3)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
-    strscan (3.1.0)
     temple (0.10.3)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
